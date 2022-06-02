@@ -1,5 +1,6 @@
 notes:
-odd number of small center?
+-odd number of small center?
+-CMG link to index or direct page?
 
 Emp MGMT
 -
@@ -18,3 +19,13 @@ Lending/Payments:
 Stifel
 Lenderful (CUSG)
 Proforma Fund (CUSG)
+
+
+Liquidity
+-
+
+CMG Investments
+Commercial Alliance
+Member Business Financial Services (MBFS) / Nu Direction Lending
+Stifel
+
