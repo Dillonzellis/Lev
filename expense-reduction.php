@@ -79,10 +79,10 @@
     <!-- Slider Sec -->
     <section class="inner_banner">
         <div class="container">
-            <h1>Employee Management</h1>
+            <h1>Expense Reduction</h1>
             <ul class="breadcrum">
                 <li><a href="index.php">Home</a></li>
-                <li>Employee Management</li>
+                <li>Expense Reduction</li>
             </ul>
         </div>
     </section>
@@ -112,12 +112,12 @@
             <div class="row">
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="https://myleverage.com/solutions/cmg.php">
-                            <img src="assets/images/solutions/cmg-card.jpg" alt="CUNA Mutual Group" />
+                        <a class="event" href="https://myleverage.com/solutions/access-softek.php">
+                            <img src="assets/images/core-solutions/access.png" alt="Access Softek" />
                             <div class="content">
-                                <h3>CMG DEI</h3>
+                                <h3>Access Softek</h3>
                                 <div class="rollover">
-                                    <p>A partnership between LEVERAGE, affiliate of the League of Southeastern Credit Unions (LSCU) and Salus Group, an experienced benefits consulting firm among credit unions, offering a turnkey solution that provides comprehensive and competitive employee benefits and services at affordable prices.</p>
+                                    <p>Award-winning solutions integrated directly into a financial institution’s digital banking platform.</p>
                                 </div>
                             </div>
                         </a>
@@ -126,12 +126,12 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="https://myleverage.com/solutions/cmg.php">
-                            <img src="assets/images/solutions/cmg-card.jpg" alt="CUNA Mutual Group" />
+                        <a class="event" href="https://myleverage.com/solutions/check-printing.php">
+                            <img src="assets/images/core-solutions/check-pr.png" alt="Check Printing Contract Consulting" />
                             <div class="content">
-                                <h3>Executive Benefits & Funding Solutions</h3>
+                                <h3>Check Printing Contract Consulting</h3>
                                 <div class="rollover">
-                                    <p>Content goes here.</p>
+                                    <p>Provides volume discounts to help large asset sized credit unions significantly reduce the cost of printing member checks.</p>
                                 </div>
                             </div>
                         </a>
@@ -140,12 +140,12 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="https://myleverage.com/solutions/cmg.php">
-                            <img src="assets/images/solutions/cmg-card.jpg" alt="CUNA Mutual Group" />
+                        <a class="event" href="https://myleverage.com/solutions/ddi.php">
+                            <img src="assets/images/core-solutions/ddi-tech.png" alt="DDI Technology"/>
                             <div class="content">
-                                <h3>Retirement Solutions</h3>
+                                <h3>DDI Technology</h3>
                                 <div class="rollover">
-                                    <p>Content goes here.</p>
+                                    <p>Providing lenders with the resources and tools needed for processing titles more efficiently.</p>
                                 </div>
                             </div>
                         </a>
@@ -154,12 +154,12 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="solutions/landrumhr.php">
-                            <img src="assets/images/solutions/landrum-card.jpg" alt="HR Services" />
+                        <a class="event" href="https://www.deluxe.com/financial-institutions/">
+                            <img src="assets/images/solutions/deluxe-card.png" alt="Deluxe" />
                             <div class="content">
-                                <h3>LandrumHR</h3>
+                                <h3>Deluxe</h3>
                                 <div class="rollover">
-                                    <p>Content goes here.</p>
+                                    <p>Changing the way business gets done.</p>
                                 </div>
                             </div>
                         </a>
@@ -168,12 +168,12 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="solutions/lemonade.php">
-                            <img src="assets/images/solutions/lemonade-card.jpg" alt="LemonadeLXP" />
+                        <a class="event" href="https://myleverage.com/solutions/glia.php">
+                            <img src="assets/images/solutions/glia-card.png" alt="Glia" />
                             <div class="content">
-                                <h3>LemonadeLXP</h3>
+                                <h3>Glia</h3>
                                 <div class="rollover">
-                                    <p>An award-winning digital growth platform that helps credit unions nail their digital member experience.</p>
+                                    <p>Digital member service experience that is always on-screen and starts wherever the person is.</p>
                                 </div>
                             </div>
                         </a>
@@ -182,12 +182,12 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="solutions/lemonade.php">
-                            <img src="assets/images/solutions/lemonade-card.jpg" alt="LemonadeLXP" />
+                        <a class="event" href="https://myleverage.com/solutions/nada.php">
+                            <img src="assets/images/solutions/jd-card.png" alt="JD Power Valuation Services" />
                             <div class="content">
-                                <h3>CEO Review</h3>
+                                <h3>JD Power Valuation Services</h3>
                                 <div class="rollover">
-                                    <p>An award-winning digital growth platform that helps credit unions nail their digital member experience.</p>
+                                    <p>Vehicle valuation solutions.</p>
                                 </div>
                             </div>
                         </a>
@@ -196,12 +196,12 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="solutions/lemonade.php">
-                            <img src="assets/images/solutions/lemonade-card.jpg" alt="LemonadeLXP" />
+                        <a class="event" href="https://myleverage.com/solutions/overdraft-protection.php">
+                            <img src="assets/images/solutions/jmfa-card.png" alt="JMFA Contract Optimizer" />
                             <div class="content">
-                                <h3>Compease</h3>
+                                <h3>JMFA Contract Optimizer</h3>
                                 <div class="rollover">
-                                    <p>An award-winning digital growth platform that helps credit unions nail their digital member experience.</p>
+                                    <p>Earn non-interest income and provide a quality overdraft protection program to your members.</p>
                                 </div>
                             </div>
                         </a>
@@ -210,12 +210,12 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="solutions/lemonade.php">
-                            <img src="assets/images/solutions/lemonade-card.jpg" alt="LemonadeLXP" />
+                        <a class="event" href="https://myleverage.com/solutions/onedigital.php">
+                            <img src="assets/images/solutions/synergi-card.png" alt="OneDigital & Synergi Partners" />
                             <div class="content">
-                                <h3>e-Advisory Services (CUSG)</h3>
+                                <h3>OneDigital & Synergi Partners</h3>
                                 <div class="rollover">
-                                    <p>An award-winning digital growth platform that helps credit unions nail their digital member experience.</p>
+                                    <p>Pandemic relief CARES Act credit for full/partial suspension of operations, or % reduction of gross receipts.</p>
                                 </div>
                             </div>
                         </a>
@@ -224,12 +224,12 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="solutions/lemonade.php">
-                            <img src="assets/images/solutions/lemonade-card.jpg" alt="LemonadeLXP" />
+                        <a class="event" href="https://myleverage.com/solutions/osg.php">
+                            <img src="assets/images/solutions/osg-card.png" alt="OSG" />
                             <div class="content">
-                                <h3>Performance Pro (CUSG)</h3>
+                                <h3>OSG</h3>
                                 <div class="rollover">
-                                    <p>An award-winning digital growth platform that helps credit unions nail their digital member experience.</p>
+                                    <p>Global provider of leading customer engagement and payment solutions. Modernized processes, frictionless experiences.</p>
                                 </div>
                             </div>
                         </a>
@@ -238,12 +238,54 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="solutions/lemonade.php">
-                            <img src="assets/images/solutions/lemonade-card.jpg" alt="LemonadeLXP" />
+                        <a class="event" href="https://myleverage.com/solutions/par.php">
+                            <img src="assets/images/solutions/par-card.png" alt="Partners in Asset Recovery (PAR)" />
                             <div class="content">
-                                <h3>Planning Pro (CUSG)</h3>
+                                <h3>Partners in Asset Recovery (PAR)</h3>
                                 <div class="rollover">
-                                    <p>An award-winning digital growth platform that helps credit unions nail their digital member experience.</p>
+                                    <p>Unparalleled nationwide total asset management from start to finish.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-sm-6">
+                    <div class="inner">
+                        <a class="event" href="https://myleverage.com/solutions/par.php">
+                            <img src="assets/images/solutions/par-card.png" alt="Office Depot" />
+                            <div class="content">
+                                <h3>Office Depot</h3>
+                                <div class="rollover">
+                                    <p>info to come</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-sm-6">
+                    <div class="inner">
+                        <a class="event" href="https://myleverage.com/solutions/par.php">
+                            <img src="assets/images/solutions/par-card.png" alt="Eltropy" />
+                            <div class="content">
+                                <h3>Eltropy</h3>
+                                <div class="rollover">
+                                    <p>info to come</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-sm-6">
+                    <div class="inner">
+                        <a class="event" href="https://myleverage.com/solutions/par.php">
+                            <img src="assets/images/solutions/par-card.png" alt="Equips" />
+                            <div class="content">
+                                <h3>Equips</h3>
+                                <div class="rollover">
+                                    <p>info to come</p>
                                 </div>
                             </div>
                         </a>
