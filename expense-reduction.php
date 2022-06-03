@@ -252,8 +252,8 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="https://myleverage.com/solutions/par.php">
-                            <img src="assets/images/solutions/par-card.png" alt="Office Depot" />
+                        <a class="event" href="#">
+                            <img src="https://via.placeholder.com/300x250" alt="Office Depot" />
                             <div class="content">
                                 <h3>Office Depot</h3>
                                 <div class="rollover">
