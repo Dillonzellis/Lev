@@ -315,8 +315,8 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="https://myleverage.com/solutions/passtime.php">
-                            <img src="assets/images/solutions/passtime-card.png" alt="Stifel" />
+                        <a class="event" href="#">
+                            <img src="https://via.placeholder.com/300x250" alt="Stifel" />
                             <div class="content">
                                 <h3>Stifel</h3>
                                 <div class="rollover">
@@ -343,8 +343,8 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="https://myleverage.com/solutions/passtime.php">
-                            <img src="assets/images/solutions/passtime-card.png" alt="Lenderful (CUSG)" />
+                        <a class="event" href="#">
+                            <img src="https://via.placeholder.com/300x250" alt="Lenderful (CUSG)" />
                             <div class="content">
                                 <h3>Lenderful (CUSG)</h3>
                                 <div class="rollover">
