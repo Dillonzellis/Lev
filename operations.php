@@ -133,7 +133,7 @@
         <div class="container">
             <div class="row">
 
-            <div class="col-lg-3 col-sm-6">
+                <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="https://myleverage.com/solutions/access-softek.php">
                             <img src="assets/images/core-solutions/access.png" alt="Access Softek" />
@@ -164,7 +164,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="https://myleverage.com/solutions/ddi.php">
-                            <img src="assets/images/core-solutions/ddi-tech.png" alt="DDI Technology"/>
+                            <img src="assets/images/core-solutions/ddi-tech.png" alt="DDI Technology" />
                             <div class="content">
                                 <h3>DDI Technology</h3>
                                 <div class="rollover">
