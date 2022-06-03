@@ -131,7 +131,7 @@
                             <div class="content">
                                 <h3>Executive Benefits & Funding Solutions</h3>
                                 <div class="rollover">
-                                    <p>Content goes here.</p>
+                                    <p>Industry professionals who specialized in fiduciary and compliance requirements, as well as leadership continuity and strategic goals..</p>
                                 </div>
                             </div>
                         </a>
@@ -145,7 +145,7 @@
                             <div class="content">
                                 <h3>Retirement Solutions</h3>
                                 <div class="rollover">
-                                    <p>Content goes here.</p>
+                                    <p>Experienced specialists offering professional guidance on 401(K) plans, pension plans, and pension risk transfer.</p>
                                 </div>
                             </div>
                         </a>
@@ -159,7 +159,7 @@
                             <div class="content">
                                 <h3>LandrumHR</h3>
                                 <div class="rollover">
-                                    <p>Content goes here.</p>
+                                    <p>Managing employees can be time-consuming and challenging – but we can make it easier.</p>
                                 </div>
                             </div>
                         </a>
@@ -182,12 +182,12 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="solutions/lemonade.php">
-                            <img src="assets/images/solutions/lemonade-card.jpg" alt="LemonadeLXP" />
+                        <a class="event" href="#">
+                            <img src="https://via.placeholder.com/300x250" alt="CEO Review" />
                             <div class="content">
                                 <h3>CEO Review</h3>
                                 <div class="rollover">
-                                    <p>An award-winning digital growth platform that helps credit unions nail their digital member experience.</p>
+                                    <p>info to come.</p>
                                 </div>
                             </div>
                         </a>
@@ -196,12 +196,12 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="solutions/lemonade.php">
-                            <img src="assets/images/solutions/lemonade-card.jpg" alt="LemonadeLXP" />
+                        <a class="event" href="#">
+                            <img src="https://via.placeholder.com/300x250" alt="Compease" />
                             <div class="content">
                                 <h3>Compease</h3>
                                 <div class="rollover">
-                                    <p>An award-winning digital growth platform that helps credit unions nail their digital member experience.</p>
+                                    <p>info to come.</p>
                                 </div>
                             </div>
                         </a>
@@ -210,12 +210,12 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="solutions/lemonade.php">
-                            <img src="assets/images/solutions/lemonade-card.jpg" alt="LemonadeLXP" />
+                        <a class="event" href="#">
+                            <img src="https://via.placeholder.com/300x250" alt="e-Advisory Services (CUSG)" />
                             <div class="content">
                                 <h3>e-Advisory Services (CUSG)</h3>
                                 <div class="rollover">
-                                    <p>An award-winning digital growth platform that helps credit unions nail their digital member experience.</p>
+                                    <p>info to come.</p>
                                 </div>
                             </div>
                         </a>
@@ -225,11 +225,11 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="solutions/lemonade.php">
-                            <img src="assets/images/solutions/lemonade-card.jpg" alt="LemonadeLXP" />
+                            <img src="https://via.placeholder.com/300x250" alt="Performance Pro (CUSG)" />
                             <div class="content">
                                 <h3>Performance Pro (CUSG)</h3>
                                 <div class="rollover">
-                                    <p>An award-winning digital growth platform that helps credit unions nail their digital member experience.</p>
+                                    <p>info to come.</p>
                                 </div>
                             </div>
                         </a>
@@ -238,12 +238,12 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="solutions/lemonade.php">
-                            <img src="assets/images/solutions/lemonade-card.jpg" alt="LemonadeLXP" />
+                        <a class="event" href="#">
+                            <img src="https://via.placeholder.com/300x250" alt="Planning Pro (CUSG)"/>
                             <div class="content">
                                 <h3>Planning Pro (CUSG)</h3>
                                 <div class="rollover">
-                                    <p>An award-winning digital growth platform that helps credit unions nail their digital member experience.</p>
+                                    <p>info to come.</p>
                                 </div>
                             </div>
                         </a>
