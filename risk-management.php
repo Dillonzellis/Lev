@@ -342,7 +342,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="#">
-                            <img src="assets/images/solutions/illumalogo-card.png" alt="ComplySight (CSS)" />
+                            <img src="https://via.placeholder.com/300x250" alt="ComplySight (CSS)" />
                             <div class="content">
                                 <h3>ComplySight (CSS)</h3>
                                 <div class="rollover">
