@@ -18,7 +18,6 @@ Lending/Payments:
 -
 Stifel
 Lenderful (CUSG)
-Proforma Fund (CUSG)
 
 
 Liquidity
@@ -27,6 +26,13 @@ Liquidity
 
 Marketing
 -
+
+Member Relations:
+-
+Engageware
+Lenderful (CSS)
+Video Banking (CUSG)
+
 
 
 

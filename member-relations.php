@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>LEVERAGE - Lending/Payments</title>
+    <title>LEVERAGE - Member Relations</title>
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico" />
     <!-- Bootstrap -->
     <!-- <link href="assets/css/bootstrap.css" rel="stylesheet"> -->
@@ -79,10 +79,10 @@
     <!-- Slider Sec -->
     <section class="inner_banner">
         <div class="container">
-            <h1>Lending/Payments</h1>
+            <h1>Member Relations</h1>
             <ul class="breadcrum">
                 <li><a href="index.php">Home</a></li>
-                <li>Lending/Payments</li>
+                <li>Member Relations</li>
             </ul>
         </div>
     </section>
@@ -90,24 +90,6 @@
     <section>
         <div class="container">
             <div class="row justify-content-center">
-
-                <div class="col-lg-4 col-sm-6">
-                    <div class="inner">
-                        <a class="event" href="https://commonbondtitle.com" target="_blank">
-                            <img src="assets/images/core-solutions/cbt.png" alt="Common Bond Title" />
-
-                            <div class="content">
-                                <h3>Property Title Management</h3>
-
-                                <div class="rollover">
-                                    <p>Common Bond Title is the protector of property rights for real estate loans against property loss or damage due to defects in land title. They can assist with part or all of the real estate lending journey for the credit union.</p>
-                                </div>
-
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
                 <div class="col-lg-4 col-sm-6">
                     <div class="inner">
                         <a class="event" href="http://www.growthbydesign.org" target="_blank">
@@ -123,20 +105,21 @@
                 </div>
 
                 <div class="col-lg-4 col-sm-6">
-						<div class="inner">
-							<a class="event" href="https://leveragepaymentsolutions.com/" target="_blank">
-    							<img src="assets/images/core-solutions/leverage-cards.png" alt="LEVERAGE Payment Solutions"/>
-    							<div class="content">
-        							<h3>Payment Solutions</h3>
-       		 						<div class="rollover">
-            						<p>LEVERAGE Payment Solutions is one of the largest card processing organizations for credit unions within the Southeast.</p>
-        							</div>
-    							</div>
-							</a>
-						</div>
-					</div>
+                    <div class="inner">
+                        <a class="event" href="http://sharedcooperativeservices.com/" target="_blank">
+                            <img src="assets/images/core-solutions/scs.png" alt="Shared Cooperative Services" />
 
+                            <div class="content">
+                                <h3>Shared Cooperative Services</h3>
 
+                                <div class="rollover">
+                                    <p>Shared Cooperative Services is the LSCU & Affiliates subsidiary for shared branching with 83 participating credit unions operating 350 outlets. Shared Cooperative Services is the state network for Alabama and Georgia and is part of the national network, CO-OP Shared Branch.</p>
+                                </div>
+
+                            </div>
+                        </a>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
@@ -147,68 +130,12 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="https://myleverage.com/solutions/culs.php">
-                            <img src="assets/images/solutions/culs-card.png" alt="Credit Union Loan Source (CULS)" />
-                            <div class="content">
-                                <h3>Credit Union Loan Source (CULS)</h3>
-                                <div class="rollover">
-                                    <p>CULS’ deep experience and expertise in the auto lending industry.</p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-sm-6">
-                    <div class="inner">
                         <a class="event" href="https://www.trutreasury.com/">
                             <img src="assets/images/solutions/tru-card.png" alt="Tru Treasury" />
                             <div class="content">
                                 <h3>Tru Treasury</h3>
                                 <div class="rollover">
                                     <p>Managing funds and accounts while protecting member relationships and identifying opportunities.</p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-sm-6">
-                    <div class="inner">
-                        <a class="event" href="https://myleverage.com/solutions/cmg.php">
-                            <img src="assets/images/solutions/cmg-card.jpg" alt="CMG Lending" />
-                            <div class="content">
-                                <h3>CMG Lending</h3>
-                                <div class="rollover">
-                                    <p>A partnership between LEVERAGE, affiliate of the League of Southeastern Credit Unions (LSCU) and Salus Group, an experienced benefits consulting firm among credit unions, offering a turnkey solution that provides comprehensive and competitive employee benefits and services at affordable prices.</p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-sm-6">
-                    <div class="inner">
-                        <a class="event" href="https://myleverage.com/solutions/commercial-alliance.php">
-                            <img src="assets/images/solutions/com-alliance-card.png" alt="Commercial Alliance" />
-                            <div class="content">
-                                <h3>Commercial Alliance</h3>
-                                <div class="rollover">
-                                    <p>A comprehensive service designed to help credit unions excel in Member Business Lending(MBL).</p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-sm-6">
-                    <div class="inner">
-                        <a class="event" href="https://myleverage.com/solutions/cufs.php">
-                            <img src="assets/images/solutions/cufs-card.png" alt="Credit Union Financial Services (CUFS)" />
-                            <div class="content">
-                                <h3>Credit Union Financial Services (CUFS)</h3>
-                                <div class="rollover">
-                                    <p>Providing affordable mortgage solutions to meet your memebers' needs.</p>
                                 </div>
                             </div>
                         </a>
@@ -231,26 +158,12 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="https://myleverage.com/solutions/nada.php">
-                            <img src="assets/images/solutions/jd-card.png" alt="JD Power Valuation Services" />
+                        <a class="event" href="solutions/lemonade.php">
+                            <img src="assets/images/solutions/lemonade-card.jpg" alt="LemonadeLXP" />
                             <div class="content">
-                                <h3>JD Power Valuation Services</h3>
+                                <h3>LemonadeLXP</h3>
                                 <div class="rollover">
-                                    <p>Vehicle valuation solutions.</p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-sm-6">
-                    <div class="inner">
-                        <a class="event" href="https://www.lendkey.com/lend/">
-                            <img src="assets/images/solutions/lendkey-card.png" alt="LendKey" />
-                            <div class="content">
-                                <h3>LendKey</h3>
-                                <div class="rollover">
-                                    <p>Giving credit unions the inside track with prime borrowers.</p>
+                                    <p>An award-winning digital growth platform that helps credit unions nail their digital member experience.</p>
                                 </div>
                             </div>
                         </a>
@@ -273,12 +186,12 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="https://myleverage.com/solutions/mbfs.php">
-                            <img src="assets/images/solutions/mbfs-card.png" alt="Member Business Financial Services (MBFS)" />
+                        <a class="event" href="https://www.membersecuritycenter.com/">
+                            <img src="assets/images/solutions/mbsc-card.png" alt="Member Security Center" />
                             <div class="content">
-                                <h3>Member Business Financial Services (MBFS)</h3>
+                                <h3>Member Security Center</h3>
                                 <div class="rollover">
-                                    <p>MBFS assists credit unions to fund business loans.</p>
+                                    <p>Member Security Center increases non-interest income and strengthens member relationships.</p>
                                 </div>
                             </div>
                         </a>
@@ -287,12 +200,12 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="https://myleverage.com/solutions/par.php">
-                            <img src="assets/images/solutions/par-card.png" alt="Partners in Asset Recovery (PAR)" />
+                        <a class="event" href="https://myleverage.com/solutions/recordlyf.php">
+                            <img src="assets/images/solutions/record-card.png" alt="RecordLyf" />
                             <div class="content">
-                                <h3>Partners in Asset Recovery (PAR)</h3>
+                                <h3>RecordLyf</h3>
                                 <div class="rollover">
-                                    <p>Unparalleled nationwide total asset management from start to finish.</p>
+                                    <p>Protect your valuable personal information.</p>
                                 </div>
                             </div>
                         </a>
@@ -301,32 +214,18 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="https://myleverage.com/solutions/passtime.php">
-                            <img src="assets/images/solutions/passtime-card.png" alt="PassTime GPS" />
+                        <a class="event" href="https://myleveragerewards.com/#/">
+                            <img src="assets/images/solutions/rewards-card.png" alt="Leverage Rewards" />
                             <div class="content">
-                                <h3>PassTime GPS</h3>
+                                <h3>Leverage Rewards</h3>
                                 <div class="rollover">
-                                    <p>Maximizing automated collection technology.</p>
+                                    <p>LEVERAGE Rewards is a valuable solution for increasing loyalty and achieving strategic objectives.</p>
                                 </div>
                             </div>
                         </a>
                     </div>
                 </div>
-
-                <div class="col-lg-3 col-sm-6">
-                    <div class="inner">
-                        <a class="event" href="https://myleverage.com/solutions/passtime.php">
-                            <img src="assets/images/solutions/passtime-card.png" alt="Stifel" />
-                            <div class="content">
-                                <h3>Stifel</h3>
-                                <div class="rollover">
-                                    <p>info to come.</p>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-
+                
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="https://myleverage.com/solutions/css.php">
@@ -343,12 +242,40 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="https://myleverage.com/solutions/passtime.php">
-                            <img src="assets/images/solutions/passtime-card.png" alt="Lenderful (CUSG)" />
+                        <a class="event" href="https://myleverage.com/solutions/css.php">
+                            <img src="assets/images/solutions/eltropy-card.png" alt="Engageware" />
                             <div class="content">
-                                <h3>Lenderful (CUSG)</h3>
+                                <h3>Engageware</h3>
                                 <div class="rollover">
                                     <p>info to come.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-sm-6">
+                    <div class="inner">
+                        <a class="event" href="https://myleverage.com/solutions/css.php">
+                            <img src="assets/images/solutions/kasasa-card.png" alt="Kasasa" />
+                            <div class="content">
+                                <h3>Kasasa</h3>
+                                <div class="rollover">
+                                    <p>Kasasa is an innovative leader in financial technology and marketing services. They offer reward checking accounts and the first ever loan with takebacks. </p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-sm-6">
+                    <div class="inner">
+                        <a class="event" href="https://myleverage.com/solutions/css.php">
+                            <img src="assets/images/solutions/kasasa-card.png" alt="Lenderful (CSS)" />
+                            <div class="content">
+                                <h3>Lenderful (CSS)</h3>
+                                <div class="rollover">
+                                    <p>info to come. </p>
                                 </div>
                             </div>
                         </a>
@@ -372,11 +299,11 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="https://myleverage.com/solutions/css.php">
-                            <img src="assets/images/solutions/profoma-card.png" alt="Proforma Fund" />
+                            <img src="assets/images/solutions/pop-card.png" alt="Video Banking (CUSG)" />
                             <div class="content">
-                                <h3>Proforma Fund</h3>
+                                <h3>Video Banking (CUSG)</h3>
                                 <div class="rollover">
-                                    <p>Proforma offers an end-to-end solution that helps credit unions drive 50% higher net loan yield while deepening member relationships through Indirect Auto Lending in their local markets.</p>
+                                    <p>info to come.</p>
                                 </div>
                             </div>
                         </a>
@@ -386,16 +313,22 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="https://myleverage.com/solutions/css.php">
-                            <img src="assets/images/solutions/zest-card.png" alt="Zest AI (CSS)" />
+                            <img src="assets/images/solutions/zogo-card.png" alt="ZOGO" />
                             <div class="content">
-                                <h3>Zest AI (CSS)</h3>
+                                <h3>ZOGO</h3>
                                 <div class="rollover">
-                                    <p>Zest AI is a mission-driven software company that helps credit unions and banks answer their most important question: Who do I lend to?</p>
+                                    <p>Zogo helps credit unions educate, engage, and attract young people. Backed by behavioral science research at Duke University, its gamified financial literacy app teaches sound financial fundamentals and rewards users for learning.</p>
                                 </div>
                             </div>
                         </a>
                     </div>
                 </div>
+
+
+
+
+
+
 
             </div>
         </div>
