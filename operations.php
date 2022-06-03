@@ -317,8 +317,8 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="https://myleverage.com/solutions/css.php">
-                            <img src="assets/images/solutions/eltropy-card.png" alt="Engageware" />
+                        <a class="event" href="#">
+                            <img src="https://via.placeholder.com/300x250" alt="Engageware" />
                             <div class="content">
                                 <h3>Engageware</h3>
                                 <div class="rollover">
@@ -360,8 +360,8 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="https://myleverage.com/solutions/passtime.php">
-                            <img src="assets/images/solutions/passtime-card.png" alt="Lenderful (CUSG)" />
+                        <a class="event" href="#">
+                            <img src="https://via.placeholder.com/300x250" alt="Lenderful (CUSG)" />
                             <div class="content">
                                 <h3>Lenderful (CUSG)</h3>
                                 <div class="rollover">
@@ -402,8 +402,8 @@
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
-                        <a class="event" href="https://myleverage.com/solutions/css.php">
-                            <img src="assets/images/solutions/pop-card.png" alt="Video Banking (CUSG)" />
+                        <a class="event" href="#">
+                            <img src="https://via.placeholder.com/300x250" alt="Video Banking (CUSG)" />
                             <div class="content">
                                 <h3>Video Banking (CUSG)</h3>
                                 <div class="rollover">
