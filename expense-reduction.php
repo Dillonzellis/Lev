@@ -129,7 +129,7 @@
                         <a class="event" href="https://myleverage.com/solutions/check-printing.php">
                             <img src="assets/images/core-solutions/check-pr.png" alt="Check Printing Contract Consulting" />
                             <div class="content">
-                                <h3>Check Printing Contract Consulting</h3>
+                                <h3 class="pt-13">Check Printing Contract Consulting</h3>
                                 <div class="rollover">
                                     <p>Provides volume discounts to help large asset sized credit unions significantly reduce the cost of printing member checks.</p>
                                 </div>
@@ -213,7 +213,7 @@
                         <a class="event" href="https://myleverage.com/solutions/onedigital.php">
                             <img src="assets/images/solutions/synergi-card.png" alt="OneDigital & Synergi Partners" />
                             <div class="content">
-                                <h3>OneDigital & Synergi Partners</h3>
+                                <h3 class="pt-13">OneDigital & Synergi Partners</h3>
                                 <div class="rollover">
                                     <p>Pandemic relief CARES Act credit for full/partial suspension of operations, or % reduction of gross receipts.</p>
                                 </div>
@@ -241,7 +241,7 @@
                         <a class="event" href="https://myleverage.com/solutions/par.php">
                             <img src="assets/images/solutions/par-card.png" alt="Partners in Asset Recovery (PAR)" />
                             <div class="content">
-                                <h3>Partners in Asset Recovery (PAR)</h3>
+                                <h3 class="pt-13">Partners in Asset Recovery (PAR)</h3>
                                 <div class="rollover">
                                     <p>Unparalleled nationwide total asset management from start to finish.</p>
                                 </div>

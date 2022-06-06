@@ -1,14 +1,15 @@
-
-
-@media (min-width: 992px){
-    .navbar-expand-lg .navbar-collapse {
-        display: flex!important;
-        flex-basis: auto;
-        justify-content: flex-end;
-    }
+@media (min-width: 992px) {
+  .navbar-expand-lg .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+    justify-content: flex-end;
+  }
 }
 
+.secondary-cards {
+  background-color: #f8f8f8;
+}
 
-.secondary-cards{
-    background-color: #F8F8F8;
+.pt-13 {
+  padding-top: 13px !important;
 }

@@ -129,7 +129,7 @@
                         <a class="event" href="https://myleverage.com/solutions/cmg.php">
                             <img src="assets/images/solutions/cmg-card.jpg" alt="CUNA Mutual Group" />
                             <div class="content">
-                                <h3>Executive Benefits & Funding Solutions</h3>
+                                <h3 class="pt-13">Executive Benefits & Funding Solutions</h3>
                                 <div class="rollover">
                                     <p>Industry professionals who specialized in fiduciary and compliance requirements, as well as leadership continuity and strategic goals..</p>
                                 </div>

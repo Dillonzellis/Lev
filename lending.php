@@ -150,7 +150,7 @@
                         <a class="event" href="https://myleverage.com/solutions/culs.php">
                             <img src="assets/images/solutions/culs-card.png" alt="Credit Union Loan Source (CULS)" />
                             <div class="content">
-                                <h3>Credit Union Loan Source (CULS)</h3>
+                                <h3 class="pt-13">Credit Union Loan Source (CULS)</h3>
                                 <div class="rollover">
                                     <p>CULS’ deep experience and expertise in the auto lending industry.</p>
                                 </div>
@@ -206,7 +206,7 @@
                         <a class="event" href="https://myleverage.com/solutions/cufs.php">
                             <img src="assets/images/solutions/cufs-card.png" alt="Credit Union Financial Services (CUFS)" />
                             <div class="content">
-                                <h3>Credit Union Financial Services (CUFS)</h3>
+                                <h3 class="pt-13">Credit Union Financial Services (CUFS)</h3>
                                 <div class="rollover">
                                     <p>Providing affordable mortgage solutions to meet your memebers' needs.</p>
                                 </div>
@@ -276,7 +276,7 @@
                         <a class="event" href="https://myleverage.com/solutions/mbfs.php">
                             <img src="assets/images/solutions/mbfs-card.png" alt="Member Business Financial Services (MBFS)" />
                             <div class="content">
-                                <h3>Member Business Financial Services (MBFS)</h3>
+                                <h3 class="pt-13">Member Business Financial Services (MBFS)</h3>
                                 <div class="rollover">
                                     <p>MBFS assists credit unions to fund business loans.</p>
                                 </div>
@@ -290,7 +290,7 @@
                         <a class="event" href="https://myleverage.com/solutions/par.php">
                             <img src="assets/images/solutions/par-card.png" alt="Partners in Asset Recovery (PAR)" />
                             <div class="content">
-                                <h3>Partners in Asset Recovery (PAR)</h3>
+                                <h3 class="pt-13">Partners in Asset Recovery (PAR)</h3>
                                 <div class="rollover">
                                     <p>Unparalleled nationwide total asset management from start to finish.</p>
                                 </div>
