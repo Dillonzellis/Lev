@@ -139,9 +139,12 @@
                         <a class="event" href="https://myleveragerewards.com/#/">
                             <img src="assets/images/solutions/rewards-card.png" alt="Leverage Rewards" />
                             <div class="content">
-                                <h3>Leverage Rewards</h3>
+                                <h3>Loyalty Rewards</h3>
                                 <div class="rollover">
-                                    <p>LEVERAGE Rewards is a valuable solution for increasing loyalty and achieving strategic objectives.</p>
+                                    <p>LEVERAGE Rewards is a valuable solution for increasing loyalty and
+                                        achieving strategic objectives such as driving revenue, enhancing member
+                                        experience and increasing transaction volume. It includes a customizable
+                                        campaign manager toolkit.</p>
                                 </div>
                             </div>
                         </a>
@@ -151,7 +154,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="#">
-                            <img src="https://via.placeholder.com/300x250" alt="Stifel" />
+                            <img src="assets/images/solutions/placeholder-card.png" alt="Stifel" />
                             <div class="content">
                                 <h3>Stifel</h3>
                                 <div class="rollover">
@@ -181,7 +184,7 @@
                         <a class="event" href="https://www.cusolutionsgroup.com/marketing/love-my-credit-union-rewards/love-my-credit-union-rewards">
                             <img src="assets/images/solutions/lmcur-card.png" alt="Love My Credit Union Rewards" />
                             <div class="content">
-                                <h3>Love My Credit Union Rewards</h3>
+                                <h3 class="pt-13">Love My Credit Union Rewards</h3>
                                 <div class="rollover">
                                     <p>Reward accounts, the only loan with take-backs, marketing & consulting services.</p>
                                 </div>

@@ -196,6 +196,7 @@
 <section class="secondary-cards">
     <div class="container">
         <div class="row">
+            
             <div class="col-lg-3 col-sm-6">
                 <div class="inner">
                     <a class="event" href="https://myleverage.com/solutions/access-softek.php">
@@ -1247,19 +1248,7 @@
                         <div class="container">
                             <div class="row">
 
-                                <div class="col-lg-3 col-sm-6">
-                                    <div class="inner">
-                                        <a class="event" href="https://myleverage.com/solutions/access-softek.php">
-                                            <img src="assets/images/core-solutions/access.png" alt="Access Softek" />
-                                            <div class="content">
-                                                <h3>Access Softek</h3>
-                                                <div class="rollover">
-                                                    <p>Award-winning solutions integrated directly into a financial institution’s digital banking platform.</p>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
+
 
 
 
@@ -1729,19 +1718,7 @@
                             <div class="row">
 
 
-                                <div class="col-lg-3 col-sm-6">
-                                    <div class="inner">
-                                        <a class="event" href="https://myleverage.com/solutions/access-softek.php">
-                                            <img src="assets/images/core-solutions/access.png" alt="Access Softek" />
-                                            <div class="content">
-                                                <h3>Access Softek</h3>
-                                                <div class="rollover">
-                                                    <p>Award-winning solutions integrated directly into a financial institution’s digital banking platform.</p>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
+
 
 
 
