@@ -116,7 +116,7 @@
                         <a class="event" href="https://myleverage.com/solutions/cmg.php">
                             <img src="assets/images/solutions/cmg-card.jpg" alt="CMG AdvantageEdgeTM Digital" />
                             <div class="content">
-                                <h3>CMG AdvantageEdgeTM Digital</h3>
+                                <h3 class="pt-13">CMG AdvantageEdgeTM Digital</h3>
                                 <div class="rollover">
                                     <p>A suite of SaaS solutions for digital lending and financial performance management analytics.</p>
                                 </div>
@@ -130,9 +130,12 @@
                         <a class="event" href="https://myleverage.com/solutions/element.php">
                             <img src="assets/images/solutions/element-card.png" alt="Element" />
                             <div class="content">
-                                <h3>Element</h3>
+                                <h3>Branch Design & Build</h3>
                                 <div class="rollover">
-                                    <p>With Element, credit unions can convert outdated financial spaces into dynamic experiences that enhance member engagement.</p>
+                                    <p>Element is a full-service firm that designs and transforms financial institutions
+                                        nationwide using a turnkey design-implementation approach. They
+                                        offer architectural design, interior design, construction management,
+                                        environmental designs and remodels.</p>
                                 </div>
                             </div>
                         </a>
@@ -144,9 +147,11 @@
                         <a class="event" href="solutions/lemonade.php">
                             <img src="assets/images/solutions/lemonade-card.png" alt="LemonadeLXP" />
                             <div class="content">
-                                <h3>LemonadeLXP</h3>
+                                <h3>Digital Member Experience</h3>
                                 <div class="rollover">
-                                    <p>An award-winning digital growth platform that helps credit unions nail their digital member experience.</p>
+                                    <p>LemonadeLXP is an award-winning digital growth platform that helps credit
+                                        unions nail their digital member experience. It offers two solutions to help
+                                        credit unions grow: Digital Academy and learning experience platform.</p>
                                 </div>
                             </div>
                         </a>
@@ -154,18 +159,21 @@
                 </div>
 
                 <div class="col-lg-3 col-sm-6">
-                    <div class="inner">
-                        <a class="event" href="https://myleverage.com/solutions/osg.php">
-                            <img src="assets/images/solutions/osg-card.png" alt="OSG" />
-                            <div class="content">
-                                <h3>OSG</h3>
-                                <div class="rollover">
-                                    <p>Global provider of leading customer engagement and payment solutions. Modernized processes, frictionless experiences.</p>
-                                </div>
+                <div class="inner">
+                    <a class="event" href="https://myleverage.com/solutions/osg.php">
+                        <img src="assets/images/solutions/osg-card.png" alt="OSG" />
+                        <div class="content">
+                            <h3>Printing & E-Statements</h3>
+                            <div class="rollover pt-5">
+                                <p>OSG can help your credit union deliver enhanced statement designs that
+                                    communicate to the member in a manner that is clear, concise and correct.
+                                    Their technology and services deliver exceptional solutions to fit your
+                                    statement delivery communication requirements.</p>
                             </div>
-                        </a>
-                    </div>
+                        </div>
+                    </a>
                 </div>
+            </div>
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
