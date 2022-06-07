@@ -1523,9 +1523,12 @@
                                         <a class="event" href="http://www.crfadvisors.com/">
                                             <img src="assets/images/solutions/crf-card.png" alt="CRF Advisors" />
                                             <div class="content">
-                                                <h3>CRF Advisors</h3>
+                                                <h3>CRF Advisors, Inc.</h3>
                                                 <div class="rollover">
-                                                    <p>A risk management firm that services financial institutions, non-profit organizations, and financial services companies.</p>
+                                                    <p>CRF Advisors, Inc. helps credit unions with the implementation of the
+                                                        Current Expected Credit Loss model (CECL) with experienced consultants
+                                                        and proprietary software created to conform with the new accounting
+                                                        standards.</p>
                                                 </div>
                                             </div>
                                         </a>
@@ -1533,18 +1536,16 @@
                                 </div>
 
 
-
-
-
-
                                 <div class="col-lg-3 col-sm-6">
                                     <div class="inner">
                                         <a class="event" href="http://www.pivotgroup.com/">
                                             <img src="assets/images/solutions/pivot-card.png" alt="PIVOT Group" />
                                             <div class="content">
-                                                <h3>PIVOT Group</h3>
+                                                <h3>Cybersecurity Solutions</h3>
                                                 <div class="rollover">
-                                                    <p>Cyber Security Audit and Compliance Services.</p>
+                                                    <p>PIVOT Group has a 20+ year history of providing cybersecurity solutions to
+                                                        protect data and systems, as well as compliance with information security
+                                                        and data privacy regulations.</p>
                                                 </div>
                                             </div>
                                         </a>

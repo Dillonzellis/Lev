@@ -153,14 +153,17 @@
 
 
 
-            <div class="col-lg-3 col-sm-6">
+                <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="https://www.trutreasury.com/">
                             <img src="assets/images/solutions/tru-card.png" alt="Tru Treasury" />
                             <div class="content">
-                                <h3>Tru Treasury</h3>
+                                <h3>Cash Management</h3>
                                 <div class="rollover">
-                                    <p>Managing funds and accounts while protecting member relationships and identifying opportunities.</p>
+                                    <p>A CUSO providing credit unions with treasury management expertise
+                                        such as treasury management consulting, program management, treasury
+                                        solutions and merchant services to increase revenue as well as attract and
+                                        retain business members.</p>
                                 </div>
                             </div>
                         </a>
@@ -200,9 +203,12 @@
                         <a class="event" href="http://www.crfadvisors.com/">
                             <img src="assets/images/solutions/crf-card.png" alt="CRF Advisors" />
                             <div class="content">
-                                <h3>CRF Advisors</h3>
+                                <h3>CRF Advisors, Inc.</h3>
                                 <div class="rollover">
-                                    <p>A risk management firm that services financial institutions, non-profit organizations, and financial services companies.</p>
+                                    <p>CRF Advisors, Inc. helps credit unions with the implementation of the
+                                        Current Expected Credit Loss model (CECL) with experienced consultants
+                                        and proprietary software created to conform with the new accounting
+                                        standards.</p>
                                 </div>
                             </div>
                         </a>
@@ -242,9 +248,13 @@
                         <a class="event" href="https://myleverage.com/solutions/par.php">
                             <img src="assets/images/solutions/par-card.png" alt="Partners in Asset Recovery (PAR)" />
                             <div class="content">
-                                <h3>Partners in Asset Recovery (PAR)</h3>
-                                <div class="rollover">
-                                    <p>Unparalleled nationwide total asset management from start to finish.</p>
+                                <h3>Vehicle Transition Solutions</h3>
+                                <div class="rollover pt-5">
+                                    <p>PAR North America is the leading nationwide provider of vehicle transition
+                                        services including recovery management, skip tracing, compliance,
+                                        remarketing and title services. PAR leverages its corporate family
+                                        connections under the KAR Global umbrella to provide unique end-to-end
+                                        solutions to credit unions.</p>
                                 </div>
                             </div>
                         </a>
@@ -256,9 +266,10 @@
                         <a class="event" href="https://myleverage.com/solutions/passtime.php">
                             <img src="assets/images/solutions/passtime-card.png" alt="PassTime GPS" />
                             <div class="content">
-                                <h3>PassTime GPS</h3>
+                                <h3>GPS Tracking</h3>
                                 <div class="rollover">
-                                    <p>Maximizing automated collection technology.</p>
+                                    <p>PassTime is the industry leader in high-tech GPS tracking and automated
+                                        collection technology solutions for auto financing other vehicles.</p>
                                 </div>
                             </div>
                         </a>
@@ -270,9 +281,11 @@
                         <a class="event" href="http://www.pivotgroup.com/">
                             <img src="assets/images/solutions/pivot-card.png" alt="PIVOT Group" />
                             <div class="content">
-                                <h3>PIVOT Group</h3>
+                                <h3>Cybersecurity Solutions</h3>
                                 <div class="rollover">
-                                    <p>Cyber Security Audit and Compliance Services.</p>
+                                    <p>PIVOT Group has a 20+ year history of providing cybersecurity solutions to
+                                        protect data and systems, as well as compliance with information security
+                                        and data privacy regulations.</p>
                                 </div>
                             </div>
                         </a>
@@ -299,9 +312,11 @@
                         <a class="event" href="https://www.virtualstrongbox.com/">
                             <img src="assets/images/solutions/virtual-strong-box-card.png" alt="Virtual Strong Box" />
                             <div class="content">
-                                <h3>Virtual Strong Box</h3>
+                                <h3 class="pt-13">Secure Information Platform Solutions</h3>
                                 <div class="rollover">
-                                    <p>A secure platform that addresses the balance of data security and consumer convenience.</p>
+                                    <p>RecordLyf, offered in partnership with Virtual StrongBox, provides a safe
+                                        online platform for personal storage and serves as a secure platform for
+                                        document sharing.</p>
                                 </div>
                             </div>
                         </a>
@@ -342,7 +357,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="#">
-                            <img src="https://via.placeholder.com/300x250" alt="ComplySight (CSS)" />
+                            <img src="assets/images/solutions/placeholder-card.png" alt="ComplySight (CSS)" />
                             <div class="content">
                                 <h3>ComplySight (CSS)</h3>
                                 <div class="rollover">
