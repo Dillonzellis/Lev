@@ -772,7 +772,7 @@
                                         program. CULS underwrites and finances auto loans utilizing a dealer
                                         network covering eight states. With a focus on longer-term used vehicle
                                         loans, CULS is able to minimize credit risk and maximize the credit unions’
-                                        ROI</p>
+                                        ROI.</p>
                                 </div>
                             </div>
                         </a>
