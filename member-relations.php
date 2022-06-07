@@ -133,9 +133,12 @@
                         <a class="event" href="https://www.trutreasury.com/">
                             <img src="assets/images/solutions/tru-card.png" alt="Tru Treasury" />
                             <div class="content">
-                                <h3>Tru Treasury</h3>
+                                <h3>Cash Management</h3>
                                 <div class="rollover">
-                                    <p>Managing funds and accounts while protecting member relationships and identifying opportunities.</p>
+                                    <p>A CUSO providing credit unions with treasury management expertise
+                                        such as treasury management consulting, program management, treasury
+                                        solutions and merchant services to increase revenue as well as attract and
+                                        retain business members.</p>
                                 </div>
                             </div>
                         </a>
@@ -147,9 +150,11 @@
                         <a class="event" href="https://myleverage.com/solutions/glia.php">
                             <img src="assets/images/solutions/glia-card.png" alt="Glia" />
                             <div class="content">
-                                <h3>Glia</h3>
+                                <h3>Digital Member Service</h3>
                                 <div class="rollover">
-                                    <p>Digital member service experience that is always on-screen and starts wherever the person is.</p>
+                                    <p>Glia is a unified digital communication platform to serve members at their
+                                        point of need online through person-to-person video, audio, phone, chat,
+                                        text and/or social media..</p>
                                 </div>
                             </div>
                         </a>
@@ -161,9 +166,11 @@
                         <a class="event" href="solutions/lemonade.php">
                             <img src="assets/images/solutions/lemonade-card.png" alt="LemonadeLXP" />
                             <div class="content">
-                                <h3>LemonadeLXP</h3>
+                                <h3>Digital Member Experience</h3>
                                 <div class="rollover">
-                                    <p>An award-winning digital growth platform that helps credit unions nail their digital member experience.</p>
+                                    <p>LemonadeLXP is an award-winning digital growth platform that helps credit
+                                        unions nail their digital member experience. It offers two solutions to help
+                                        credit unions grow: Digital Academy and learning experience platform.</p>
                                 </div>
                             </div>
                         </a>
@@ -175,9 +182,12 @@
                         <a class="event" href="https://www.lendkey.com/lend/">
                             <img src="assets/images/solutions/loanpay-card.png" alt="LoanPay" />
                             <div class="content">
-                                <h3>LoanPay</h3>
+                                <h3>Loan Service Solutions</h3>
                                 <div class="rollover">
-                                    <p>LEVERAGE LoanPay is a highly flexible and customizable loan servicing solution that enables financial institutions to accept loan, card, and mortgage payments across all channels.</p>
+                                    <p>LEVERAGE LoanPay is a highly flexible and customizable loan servicing
+                                        solution that enables financial institutions to accept loan, card, and mortgage
+                                        payments across all channels including in-person, through a call center,
+                                        online, and in the mail.</p>
                                 </div>
                             </div>
                         </a>
@@ -217,15 +227,18 @@
                         <a class="event" href="https://myleveragerewards.com/#/">
                             <img src="assets/images/solutions/rewards-card.png" alt="Leverage Rewards" />
                             <div class="content">
-                                <h3>Leverage Rewards</h3>
+                                <h3>Loyalty Rewards</h3>
                                 <div class="rollover">
-                                    <p>LEVERAGE Rewards is a valuable solution for increasing loyalty and achieving strategic objectives.</p>
+                                    <p>LEVERAGE Rewards is a valuable solution for increasing loyalty and
+                                        achieving strategic objectives such as driving revenue, enhancing member
+                                        experience and increasing transaction volume. It includes a customizable
+                                        campaign manager toolkit.</p>
                                 </div>
                             </div>
                         </a>
                     </div>
                 </div>
-                
+
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="https://myleverage.com/solutions/css.php">
@@ -243,7 +256,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="#">
-                            <img src="https://via.placeholder.com/300x250" alt="Engageware" />
+                            <img src="assets/images/solutions/placeholder-card.png" alt="Engageware" />
                             <div class="content">
                                 <h3>Engageware</h3>
                                 <div class="rollover">
@@ -271,7 +284,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="#p">
-                            <img src="https://via.placeholder.com/300x250" alt="Lenderful (CSS)" />
+                            <img src="assets/images/solutions/placeholder-card.png" alt="Lenderful (CSS)" />
                             <div class="content">
                                 <h3>Lenderful (CSS)</h3>
                                 <div class="rollover">
@@ -299,7 +312,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="#">
-                            <img src="https://via.placeholder.com/300x250" alt="Video Banking (CUSG)" />
+                            <img src="assets/images/solutions/placeholder-card.png" alt="Video Banking (CUSG)" />
                             <div class="content">
                                 <h3>Video Banking (CUSG)</h3>
                                 <div class="rollover">

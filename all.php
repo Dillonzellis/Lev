@@ -760,19 +760,6 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-3 col-sm-6">
-                        <div class="inner">
-                            <a class="event" href="https://www.trutreasury.com/">
-                                <img src="assets/images/solutions/tru-card.png" alt="Tru Treasury" />
-                                <div class="content">
-                                    <h3>Tru Treasury</h3>
-                                    <div class="rollover">
-                                        <p>Managing funds and accounts while protecting member relationships and identifying opportunities.</p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
 
                     <div class="col-lg-3 col-sm-6">
                         <div class="inner">
@@ -963,23 +950,6 @@
 
                             <div class="col-lg-3 col-sm-6">
                                 <div class="inner">
-                                    <a class="event" href="https://www.trutreasury.com/">
-                                        <img src="assets/images/solutions/tru-card.png" alt="Tru Treasury" />
-                                        <div class="content">
-                                            <h3>Tru Treasury</h3>
-                                            <div class="rollover">
-                                                <p>Managing funds and accounts while protecting member relationships and identifying opportunities.</p>
-                                            </div>
-                                        </div>
-                                    </a>
-                                </div>
-                            </div>
-
-
-
-
-                            <div class="col-lg-3 col-sm-6">
-                                <div class="inner">
                                     <a class="event" href="https://www.membersecuritycenter.com/">
                                         <img src="assets/images/solutions/mbsc-card.png" alt="Member Security Center" />
                                         <div class="content">
@@ -1011,9 +981,12 @@
                                     <a class="event" href="https://myleveragerewards.com/#/">
                                         <img src="assets/images/solutions/rewards-card.png" alt="Leverage Rewards" />
                                         <div class="content">
-                                            <h3>Leverage Rewards</h3>
+                                            <h3>Loyalty Rewards</h3>
                                             <div class="rollover">
-                                                <p>LEVERAGE Rewards is a valuable solution for increasing loyalty and achieving strategic objectives.</p>
+                                                <p>LEVERAGE Rewards is a valuable solution for increasing loyalty and
+                                                    achieving strategic objectives such as driving revenue, enhancing member
+                                                    experience and increasing transaction volume. It includes a customizable
+                                                    campaign manager toolkit.</p>
                                             </div>
                                         </div>
                                     </a>
@@ -1159,19 +1132,7 @@
                                     </div>
                                 </div>
 
-                                <div class="col-lg-3 col-sm-6">
-                                    <div class="inner">
-                                        <a class="event" href="https://www.membersecuritycenter.com/">
-                                            <img src="assets/images/solutions/mbsc-card.png" alt="Member Security Center" />
-                                            <div class="content">
-                                                <h3>Member Security Center</h3>
-                                                <div class="rollover">
-                                                    <p>Member Security Center increases non-interest income and strengthens member relationships.</p>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
+
 
                                 <div class="col-lg-3 col-sm-6">
                                     <div class="inner">
@@ -1187,19 +1148,6 @@
                                     </div>
                                 </div>
 
-                                <div class="col-lg-3 col-sm-6">
-                                    <div class="inner">
-                                        <a class="event" href="https://myleveragerewards.com/#/">
-                                            <img src="assets/images/solutions/rewards-card.png" alt="Leverage Rewards" />
-                                            <div class="content">
-                                                <h3>Leverage Rewards</h3>
-                                                <div class="rollover">
-                                                    <p>LEVERAGE Rewards is a valuable solution for increasing loyalty and achieving strategic objectives.</p>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
 
 
 
@@ -1580,19 +1528,7 @@
 
 
 
-                                <div class="col-lg-3 col-sm-6">
-                                    <div class="inner">
-                                        <a class="event" href="https://www.trutreasury.com/">
-                                            <img src="assets/images/solutions/tru-card.png" alt="Tru Treasury" />
-                                            <div class="content">
-                                                <h3>Tru Treasury</h3>
-                                                <div class="rollover">
-                                                    <p>Managing funds and accounts while protecting member relationships and identifying opportunities.</p>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
+
 
                                 <div class="col-lg-3 col-sm-6">
                                     <div class="inner">
@@ -1636,33 +1572,8 @@
                                     </div>
                                 </div>
 
-                                <div class="col-lg-3 col-sm-6">
-                                    <div class="inner">
-                                        <a class="event" href="https://myleverage.com/solutions/overdraft-protection.php">
-                                            <img src="assets/images/solutions/jmfa-card.png" alt="JMFA Overdraft Protection" />
-                                            <div class="content">
-                                                <h3>JMFA Overdraft Protection</h3>
-                                                <div class="rollover">
-                                                    <p>Earn non-interest income and provide a quality overdraft protection program to your members.</p>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
 
-                                <div class="col-lg-3 col-sm-6">
-                                    <div class="inner">
-                                        <a class="event" href="https://www.membersecuritycenter.com/">
-                                            <img src="assets/images/solutions/mbsc-card.png" alt="Member Security Center" />
-                                            <div class="content">
-                                                <h3>Member Security Center</h3>
-                                                <div class="rollover">
-                                                    <p>Member Security Center increases non-interest income and strengthens member relationships.</p>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
+
 
 
 
