@@ -159,7 +159,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="solutions/lemonade.php">
-                            <img src="assets/images/solutions/lemonade-card.jpg" alt="LemonadeLXP" />
+                            <img src="assets/images/solutions/lemonade-card.png" alt="LemonadeLXP" />
                             <div class="content">
                                 <h3>LemonadeLXP</h3>
                                 <div class="rollover">
