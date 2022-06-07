@@ -123,18 +123,18 @@
                 </div>
 
                 <div class="col-lg-4 col-sm-6">
-						<div class="inner">
-							<a class="event" href="https://leveragepaymentsolutions.com/" target="_blank">
-    							<img src="assets/images/core-solutions/leverage-cards.png" alt="LEVERAGE Payment Solutions"/>
-    							<div class="content">
-        							<h3>Payment Solutions</h3>
-       		 						<div class="rollover">
-            						<p>LEVERAGE Payment Solutions is one of the largest card processing organizations for credit unions within the Southeast.</p>
-        							</div>
-    							</div>
-							</a>
-						</div>
-					</div>
+                    <div class="inner">
+                        <a class="event" href="https://leveragepaymentsolutions.com/" target="_blank">
+                            <img src="assets/images/core-solutions/leverage-cards.png" alt="LEVERAGE Payment Solutions" />
+                            <div class="content">
+                                <h3>Payment Solutions</h3>
+                                <div class="rollover">
+                                    <p>LEVERAGE Payment Solutions is one of the largest card processing organizations for credit unions within the Southeast.</p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
 
 
             </div>
@@ -145,14 +145,18 @@
         <div class="container">
             <div class="row">
 
-                <div class="col-lg-3 col-sm-6">
+            <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="https://myleverage.com/solutions/culs.php">
                             <img src="assets/images/solutions/culs-card.png" alt="Credit Union Loan Source (CULS)" />
                             <div class="content">
-                                <h3 class="pt-13">Credit Union Loan Source (CULS)</h3>
-                                <div class="rollover">
-                                    <p>CULS’ deep experience and expertise in the auto lending industry.</p>
+                                <h3>Auto Loans</h3>
+                                <div class="rollover pt-5">
+                                    <p>CU Loan Source (CULS) offers an indirect lending auto loan participation
+                                        program. CULS underwrites and finances auto loans utilizing a dealer
+                                        network covering eight states. With a focus on longer-term used vehicle
+                                        loans, CULS is able to minimize credit risk and maximize the credit unions’
+                                        ROI.</p>
                                 </div>
                             </div>
                         </a>
@@ -164,9 +168,12 @@
                         <a class="event" href="https://www.trutreasury.com/">
                             <img src="assets/images/solutions/tru-card.png" alt="Tru Treasury" />
                             <div class="content">
-                                <h3>Tru Treasury</h3>
+                                <h3>Cash Management</h3>
                                 <div class="rollover">
-                                    <p>Managing funds and accounts while protecting member relationships and identifying opportunities.</p>
+                                    <p>A CUSO providing credit unions with treasury management expertise
+                                        such as treasury management consulting, program management, treasury
+                                        solutions and merchant services to increase revenue as well as attract and
+                                        retain business members.</p>
                                 </div>
                             </div>
                         </a>
@@ -179,7 +186,7 @@
                             <img src="assets/images/solutions/cmg-card.jpg" alt="CMG Lending" />
                             <div class="content">
                                 <h3>CMG Lending</h3>
-                                <div class="rollover">
+                                <div class="rollover pt-5">
                                     <p>A partnership between LEVERAGE, affiliate of the League of Southeastern Credit Unions (LSCU) and Salus Group, an experienced benefits consulting firm among credit unions, offering a turnkey solution that provides comprehensive and competitive employee benefits and services at affordable prices.</p>
                                 </div>
                             </div>
@@ -192,9 +199,12 @@
                         <a class="event" href="https://myleverage.com/solutions/commercial-alliance.php">
                             <img src="assets/images/solutions/com-alliance-card.png" alt="Commercial Alliance" />
                             <div class="content">
-                                <h3>Commercial Alliance</h3>
-                                <div class="rollover">
-                                    <p>A comprehensive service designed to help credit unions excel in Member Business Lending(MBL).</p>
+                                <h3>Business Loans</h3>
+                                <div class="rollover pt-5">
+                                    <p>Commercial Alliance provides comprehensive services designed to assist
+                                        credit unions in Member Business Lending (MBL). Their team of experts
+                                        manage the entire business lending process, including (but not limited to):
+                                        loan origination, underwriting, documentation, servicing, and administration.</p>
                                 </div>
                             </div>
                         </a>
@@ -206,9 +216,12 @@
                         <a class="event" href="https://myleverage.com/solutions/cufs.php">
                             <img src="assets/images/solutions/cufs-card.png" alt="Credit Union Financial Services (CUFS)" />
                             <div class="content">
-                                <h3 class="pt-13">Credit Union Financial Services (CUFS)</h3>
-                                <div class="rollover">
-                                    <p>Providing affordable mortgage solutions to meet your memebers' needs.</p>
+                                <h3>Mortgage Loans</h3>
+                                <div class="rollover pt-5">
+                                    <p>Credit Union Financial Services (CUFS), a Credit Union Service Organization,
+                                        specializes in mortgages for credit union members. Whether you’re looking
+                                        for a full-service mortgage financial partner, or a-la-carte services, CUFS can
+                                        customize the partnership your credit union needs.</p>
                                 </div>
                             </div>
                         </a>
@@ -220,9 +233,11 @@
                         <a class="event" href="https://myleverage.com/solutions/glia.php">
                             <img src="assets/images/solutions/glia-card.png" alt="Glia" />
                             <div class="content">
-                                <h3>Glia</h3>
+                                <h3>Digital Member Service</h3>
                                 <div class="rollover">
-                                    <p>Digital member service experience that is always on-screen and starts wherever the person is.</p>
+                                    <p>Glia is a unified digital communication platform to serve members at their
+                                        point of need online through person-to-person video, audio, phone, chat,
+                                        text and/or social media..</p>
                                 </div>
                             </div>
                         </a>
@@ -234,9 +249,11 @@
                         <a class="event" href="https://myleverage.com/solutions/nada.php">
                             <img src="assets/images/solutions/jd-card.png" alt="JD Power Valuation Services" />
                             <div class="content">
-                                <h3>JD Power Valuation Services</h3>
+                                <h3>Vehicle Valuations</h3>
                                 <div class="rollover">
-                                    <p>Vehicle valuation solutions.</p>
+                                    <p>J.D. Power Valuation Services (formerly known as NADA Used Car Guide)
+                                        provides the most convenient access to valuation data for all types of new
+                                        and used vehicles.</p>
                                 </div>
                             </div>
                         </a>
@@ -249,8 +266,12 @@
                             <img src="assets/images/solutions/lendkey-card.png" alt="LendKey" />
                             <div class="content">
                                 <h3>LendKey</h3>
-                                <div class="rollover">
-                                    <p>Giving credit unions the inside track with prime borrowers.</p>
+                                <div class="rollover pt-5">
+                                    <p>LendKey helps credit unions grow and diversify their loan portfolios with
+                                        unique turn-key lending solutions. With their home improvement loan
+                                        participation program and private student loan and refinance platforms,
+                                        LendKey is there from origination through servicing to minimize on-going
+                                        due diligence, ensure compliance and maximize access to new loans.</p>
                                 </div>
                             </div>
                         </a>
@@ -262,9 +283,12 @@
                         <a class="event" href="https://www.lendkey.com/lend/">
                             <img src="assets/images/solutions/loanpay-card.png" alt="LoanPay" />
                             <div class="content">
-                                <h3>LoanPay</h3>
+                                <h3>Loan Service Solutions</h3>
                                 <div class="rollover">
-                                    <p>LEVERAGE LoanPay is a highly flexible and customizable loan servicing solution that enables financial institutions to accept loan, card, and mortgage payments across all channels.</p>
+                                    <p>LEVERAGE LoanPay is a highly flexible and customizable loan servicing
+                                        solution that enables financial institutions to accept loan, card, and mortgage
+                                        payments across all channels including in-person, through a call center,
+                                        online, and in the mail.</p>
                                 </div>
                             </div>
                         </a>
@@ -276,9 +300,13 @@
                         <a class="event" href="https://myleverage.com/solutions/mbfs.php">
                             <img src="assets/images/solutions/mbfs-card.png" alt="Member Business Financial Services (MBFS)" />
                             <div class="content">
-                                <h3 class="pt-13">Member Business Financial Services (MBFS)</h3>
-                                <div class="rollover">
-                                    <p>MBFS assists credit unions to fund business loans.</p>
+                                <h3>Business Loans</h3>
+                                <div class="rollover pt-5">
+                                    <p>As a commercial lending CUSO, Member Business Financial Services
+                                        provides a wide variety of business services including credit analysis, loan
+                                        document preparation, shared relationship manager programs, portfolio risk
+                                        management, and loan servicing, as well as a wide variety of training options
+                                        for your board and staff.</p>
                                 </div>
                             </div>
                         </a>
@@ -290,9 +318,13 @@
                         <a class="event" href="https://myleverage.com/solutions/par.php">
                             <img src="assets/images/solutions/par-card.png" alt="Partners in Asset Recovery (PAR)" />
                             <div class="content">
-                                <h3 class="pt-13">Partners in Asset Recovery (PAR)</h3>
-                                <div class="rollover">
-                                    <p>Unparalleled nationwide total asset management from start to finish.</p>
+                                <h3>Vehicle Transition Solutions</h3>
+                                <div class="rollover pt-5">
+                                    <p>PAR North America is the leading nationwide provider of vehicle transition
+                                        services including recovery management, skip tracing, compliance,
+                                        remarketing and title services. PAR leverages its corporate family
+                                        connections under the KAR Global umbrella to provide unique end-to-end
+                                        solutions to credit unions.</p>
                                 </div>
                             </div>
                         </a>
@@ -304,9 +336,10 @@
                         <a class="event" href="https://myleverage.com/solutions/passtime.php">
                             <img src="assets/images/solutions/passtime-card.png" alt="PassTime GPS" />
                             <div class="content">
-                                <h3>PassTime GPS</h3>
+                                <h3>GPS Tracking</h3>
                                 <div class="rollover">
-                                    <p>Maximizing automated collection technology.</p>
+                                    <p>PassTime is the industry leader in high-tech GPS tracking and automated
+                                        collection technology solutions for auto financing other vehicles.</p>
                                 </div>
                             </div>
                         </a>
@@ -316,11 +349,12 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="#">
-                            <img src="https://via.placeholder.com/300x250" alt="Stifel" />
+                            <img src="assets/images/solutions/placeholder-card.png" alt="Stifel" />
                             <div class="content">
-                                <h3>Stifel</h3>
+                                <h3>Investments</h3>
                                 <div class="rollover">
-                                    <p>info to come.</p>
+                                    <p>Stifel provides credit unions with investment services for bonds, mortgage
+                                        backed securities, and cash flow analysis.</p>
                                 </div>
                             </div>
                         </a>
@@ -344,7 +378,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="#">
-                            <img src="https://via.placeholder.com/300x250" alt="Lenderful (CUSG)" />
+                            <img src="assets/images/solutions/placeholder-card.png" alt="Lenderful (CUSG)" />
                             <div class="content">
                                 <h3>Lenderful (CUSG)</h3>
                                 <div class="rollover">
