@@ -117,7 +117,9 @@
                             <div class="content">
                                 <h3>CMG DEI</h3>
                                 <div class="rollover">
-                                    <p>A partnership between LEVERAGE, affiliate of the League of Southeastern Credit Unions (LSCU) and Salus Group, an experienced benefits consulting firm among credit unions, offering a turnkey solution that provides comprehensive and competitive employee benefits and services at affordable prices.</p>
+                                    <p>For more than 75 years, CUNA Mutual Group has worked tirelessly to deliver
+                                        product and service solutions that meet the unique challenges and needs of
+                                        credit unions and their members.</p>
                                 </div>
                             </div>
                         </a>
@@ -155,11 +157,12 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="solutions/landrumhr.php">
-                            <img src="assets/images/solutions/landrum-card.jpg" alt="HR Services" />
+                            <img src="assets/images/solutions/Landrum-card.png" alt="HR Services" />
                             <div class="content">
-                                <h3>LandrumHR</h3>
+                                <h3>Payroll, Benefits & HR</h3>
                                 <div class="rollover">
-                                    <p>Managing employees can be time-consuming and challenging – but we can make it easier.</p>
+                                    <p>Whether you’re a small or medium sized credit union, LandrumHR has a
+                                        human resources solution to fit your business needs.</p>
                                 </div>
                             </div>
                         </a>
@@ -169,11 +172,13 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="solutions/lemonade.php">
-                            <img src="assets/images/solutions/lemonade-card.jpg" alt="LemonadeLXP" />
+                            <img src="assets/images/solutions/lemonade-card.png" alt="LemonadeLXP" />
                             <div class="content">
-                                <h3>LemonadeLXP</h3>
+                                <h3>Digital Member Experience</h3>
                                 <div class="rollover">
-                                    <p>An award-winning digital growth platform that helps credit unions nail their digital member experience.</p>
+                                    <p>LemonadeLXP is an award-winning digital growth platform that helps credit
+                                        unions nail their digital member experience. It offers two solutions to help
+                                        credit unions grow: Digital Academy and learning experience platform.</p>
                                 </div>
                             </div>
                         </a>
@@ -183,7 +188,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="#">
-                            <img src="https://via.placeholder.com/300x250" alt="CEO Review" />
+                            <img src="assets/images/solutions/placeholder-card.png" alt="CEO Review" />
                             <div class="content">
                                 <h3>CEO Review</h3>
                                 <div class="rollover">
@@ -197,7 +202,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="#">
-                            <img src="https://via.placeholder.com/300x250" alt="Compease" />
+                            <img src="assets/images/solutions/placeholder-card.png" alt="Compease" />
                             <div class="content">
                                 <h3>Compease</h3>
                                 <div class="rollover">
@@ -211,7 +216,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="#">
-                            <img src="https://via.placeholder.com/300x250" alt="e-Advisory Services (CUSG)" />
+                            <img src="assets/images/solutions/placeholder-card.png" alt="e-Advisory Services (CUSG)" />
                             <div class="content">
                                 <h3>e-Advisory Services (CUSG)</h3>
                                 <div class="rollover">
@@ -225,7 +230,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="solutions/lemonade.php">
-                            <img src="https://via.placeholder.com/300x250" alt="Performance Pro (CUSG)" />
+                            <img src="assets/images/solutions/placeholder-card.png" alt="Performance Pro (CUSG)" />
                             <div class="content">
                                 <h3>Performance Pro (CUSG)</h3>
                                 <div class="rollover">
@@ -239,7 +244,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="#">
-                            <img src="https://via.placeholder.com/300x250" alt="Planning Pro (CUSG)"/>
+                            <img src="assets/images/solutions/placeholder-card.png" alt="Planning Pro (CUSG)" />
                             <div class="content">
                                 <h3>Planning Pro (CUSG)</h3>
                                 <div class="rollover">
