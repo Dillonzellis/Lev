@@ -131,9 +131,12 @@
                         <a class="event" href="https://myleverage.com/solutions/access-softek.php">
                             <img src="assets/images/core-solutions/access.png" alt="Access Softek" />
                             <div class="content">
-                                <h3>Access Softek</h3>
-                                <div class="rollover">
-                                    <p>Award-winning solutions integrated directly into a financial institution’s digital banking platform.</p>
+                                <h3 class="pt-13">Online, Mobile and Account Opening Solutions</h3>
+                                <div class="rollover pt-5">
+                                    <p>Access Softek has been delivering technological innovations in the fintech
+                                        space with credit unions for decades. It offers features and functionality that
+                                        include advanced authentication, real time P2P (including Zelle), advanced
+                                        bill pay options and sophisticated target marketing.</p>
                                 </div>
                             </div>
                         </a>
@@ -145,9 +148,11 @@
                         <a class="event" href="https://myleverage.com/solutions/glia.php">
                             <img src="assets/images/solutions/glia-card.png" alt="Glia" />
                             <div class="content">
-                                <h3>Glia</h3>
+                                <h3>Digital Member Service</h3>
                                 <div class="rollover">
-                                    <p>Digital member service experience that is always on-screen and starts wherever the person is.</p>
+                                    <p>Glia is a unified digital communication platform to serve members at their
+                                        point of need online through person-to-person video, audio, phone, chat,
+                                        text and/or social media..</p>
                                 </div>
                             </div>
                         </a>
@@ -171,7 +176,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="#">
-                            <img src="https://via.placeholder.com/300x250" alt="Engageware (CUSG)" />
+                            <img src="assets/images/solutions/placeholder-card.png" alt="Engageware (CUSG)" />
                             <div class="content">
                                 <h3>Engageware (CUSG)</h3>
                                 <div class="rollover">
@@ -185,7 +190,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="#">
-                            <img src="https://via.placeholder.com/300x250" alt="Lenderful (CUSG)" />
+                            <img src="assets/images/solutions/placeholder-card.png" alt="Lenderful (CUSG)" />
                             <div class="content">
                                 <h3>Lenderful (CUSG)</h3>
                                 <div class="rollover">
@@ -216,7 +221,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="#">
-                            <img src="https://via.placeholder.com/300x250" alt="Video Banking (CUSG)" />
+                            <img src="assets/images/solutions/placeholder-card.png" alt="Video Banking (CUSG)" />
                             <div class="content">
                                 <h3>Video Banking (CUSG)</h3>
                                 <div class="rollover">
