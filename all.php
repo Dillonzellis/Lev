@@ -196,7 +196,7 @@
 <section class="secondary-cards">
     <div class="container">
         <div class="row">
-            
+
             <div class="col-lg-3 col-sm-6">
                 <div class="inner">
                     <a class="event" href="https://myleverage.com/solutions/access-softek.php">
@@ -1254,43 +1254,14 @@
 
                                 <div class="col-lg-3 col-sm-6">
                                     <div class="inner">
-                                        <a class="event" href="https://myleverage.com/solutions/ddi.php">
-                                            <img src="assets/images/core-solutions/ddi-tech.png" alt="DDI Technology" />
-                                            <div class="content">
-                                                <h3>DDI Technology</h3>
-                                                <div class="rollover">
-                                                    <p>Providing lenders with the resources and tools needed for processing titles more efficiently.</p>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-
-                                <div class="col-lg-3 col-sm-6">
-                                    <div class="inner">
-                                        <a class="event" href="https://www.deluxe.com/financial-institutions/">
-                                            <img src="assets/images/solutions/deluxe-card.png" alt="Deluxe" />
-                                            <div class="content">
-                                                <h3>Deluxe</h3>
-                                                <div class="rollover">
-                                                    <p>Changing the way business gets done.</p>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
-
-
-
-
-                                <div class="col-lg-3 col-sm-6">
-                                    <div class="inner">
                                         <a class="event" href="https://www.virtualstrongbox.com/">
                                             <img src="assets/images/solutions/virtual-strong-box-card.png" alt="Virtual Strong Box" />
                                             <div class="content">
-                                                <h3>Virtual Strong Box</h3>
+                                                <h3 class="pt-13">Secure Information Platform Solutions</h3>
                                                 <div class="rollover">
-                                                    <p>A secure platform that addresses the balance of data security and consumer convenience.</p>
+                                                    <p>RecordLyf, offered in partnership with Virtual StrongBox, provides a safe
+                                                        online platform for personal storage and serves as a secure platform for
+                                                        document sharing.</p>
                                                 </div>
                                             </div>
                                         </a>
@@ -1390,7 +1361,7 @@
                                         <a class="event" href="https://myleverage.com/solutions/passtime.php">
                                             <img src="assets/images/solutions/passtime-card.png" alt="Planning Pro" />
                                             <div class="content">
-                                                <h3>Planning Pro)</h3>
+                                                <h3>Planning Pro</h3>
                                                 <div class="rollover">
                                                     <p>info to come.</p>
                                                 </div>
@@ -1594,20 +1565,6 @@
                                     </div>
                                 </div>
 
-
-                                <div class="col-lg-3 col-sm-6">
-                                    <div class="inner">
-                                        <a class="event" href="https://www.virtualstrongbox.com/">
-                                            <img src="assets/images/solutions/virtual-strong-box-card.png" alt="Virtual Strong Box" />
-                                            <div class="content">
-                                                <h3>Virtual Strong Box</h3>
-                                                <div class="rollover">
-                                                    <p>A secure platform that addresses the balance of data security and consumer convenience.</p>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-                                </div>
 
 
 

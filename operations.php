@@ -138,9 +138,12 @@
                         <a class="event" href="https://myleverage.com/solutions/access-softek.php">
                             <img src="assets/images/core-solutions/access.png" alt="Access Softek" />
                             <div class="content">
-                                <h3>Access Softek</h3>
-                                <div class="rollover">
-                                    <p>Award-winning solutions integrated directly into a financial institution’s digital banking platform.</p>
+                                <h3 class="pt-13">Online, Mobile and Account Opening Solutions</h3>
+                                <div class="rollover pt-5">
+                                    <p>Access Softek has been delivering technological innovations in the fintech
+                                        space with credit unions for decades. It offers features and functionality that
+                                        include advanced authentication, real time P2P (including Zelle), advanced
+                                        bill pay options and sophisticated target marketing.</p>
                                 </div>
                             </div>
                         </a>
@@ -152,7 +155,7 @@
                         <a class="event" href="https://myleverage.com/solutions/cmg.php">
                             <img src="assets/images/solutions/cmg-card.jpg" alt="CMG AdvantageEdgeTM Digital" />
                             <div class="content">
-                                <h3>CMG AdvantageEdgeTM Digital</h3>
+                                <h3 class="pt-13">CMG AdvantageEdgeTM Digital</h3>
                                 <div class="rollover">
                                     <p>A suite of SaaS solutions for digital lending and financial performance management analytics.</p>
                                 </div>
@@ -166,9 +169,10 @@
                         <a class="event" href="https://myleverage.com/solutions/ddi.php">
                             <img src="assets/images/core-solutions/ddi-tech.png" alt="DDI Technology" />
                             <div class="content">
-                                <h3>DDI Technology</h3>
+                                <h3 class="pt-13">Electronic & Paper Vehicle Titles</h3>
                                 <div class="rollover">
-                                    <p>Providing lenders with the resources and tools needed for processing titles more efficiently.</p>
+                                    <p>DDI can manage your paper and electronic vehicle titles in all 50 states. DDI
+                                        also offers a Total Payoff program.</p>
                                 </div>
                             </div>
                         </a>
@@ -180,9 +184,11 @@
                         <a class="event" href="https://www.deluxe.com/financial-institutions/">
                             <img src="assets/images/solutions/deluxe-card.png" alt="Deluxe" />
                             <div class="content">
-                                <h3>Deluxe</h3>
+                                <h3>Financial Services</h3>
                                 <div class="rollover">
-                                    <p>Changing the way business gets done.</p>
+                                    <p>Deluxe is strategically transforming to a solutions-provider that drives growth
+                                        for credit unions through payments, performance management, digital
+                                        channels, and small business marketing services.</p>
                                 </div>
                             </div>
                         </a>
@@ -194,9 +200,12 @@
                         <a class="event" href="https://myleverage.com/solutions/element.php">
                             <img src="assets/images/solutions/element-card.png" alt="Element" />
                             <div class="content">
-                                <h3>Element</h3>
+                                <h3>Branch Design & Build</h3>
                                 <div class="rollover">
-                                    <p>With Element, credit unions can convert outdated financial spaces into dynamic experiences that enhance member engagement.</p>
+                                    <p>Element is a full-service firm that designs and transforms financial institutions
+                                        nationwide using a turnkey design-implementation approach. They
+                                        offer architectural design, interior design, construction management,
+                                        environmental designs and remodels.</p>
                                 </div>
                             </div>
                         </a>
@@ -208,9 +217,11 @@
                         <a class="event" href="https://myleverage.com/solutions/glia.php">
                             <img src="assets/images/solutions/glia-card.png" alt="Glia" />
                             <div class="content">
-                                <h3>Glia</h3>
+                                <h3>Digital Member Service</h3>
                                 <div class="rollover">
-                                    <p>Digital member service experience that is always on-screen and starts wherever the person is.</p>
+                                    <p>Glia is a unified digital communication platform to serve members at their
+                                        point of need online through person-to-person video, audio, phone, chat,
+                                        text and/or social media..</p>
                                 </div>
                             </div>
                         </a>
@@ -222,9 +233,12 @@
                         <a class="event" href="https://www.lendkey.com/lend/">
                             <img src="assets/images/solutions/loanpay-card.png" alt="LoanPay" />
                             <div class="content">
-                                <h3>LoanPay</h3>
+                                <h3>Loan Service Solutions</h3>
                                 <div class="rollover">
-                                    <p>LEVERAGE LoanPay is a highly flexible and customizable loan servicing solution that enables financial institutions to accept loan, card, and mortgage payments across all channels.</p>
+                                    <p>LEVERAGE LoanPay is a highly flexible and customizable loan servicing
+                                        solution that enables financial institutions to accept loan, card, and mortgage
+                                        payments across all channels including in-person, through a call center,
+                                        online, and in the mail.</p>
                                 </div>
                             </div>
                         </a>
@@ -236,9 +250,12 @@
                         <a class="event" href="https://myleverage.com/solutions/osg.php">
                             <img src="assets/images/solutions/osg-card.png" alt="OSG" />
                             <div class="content">
-                                <h3>OSG</h3>
-                                <div class="rollover">
-                                    <p>Global provider of leading customer engagement and payment solutions. Modernized processes, frictionless experiences.</p>
+                                <h3>Printing & E-Statements</h3>
+                                <div class="rollover pt-5">
+                                    <p>OSG can help your credit union deliver enhanced statement designs that
+                                        communicate to the member in a manner that is clear, concise and correct.
+                                        Their technology and services deliver exceptional solutions to fit your
+                                        statement delivery communication requirements.</p>
                                 </div>
                             </div>
                         </a>
@@ -250,14 +267,17 @@
                         <a class="event" href="https://www.virtualstrongbox.com/">
                             <img src="assets/images/solutions/virtual-strong-box-card.png" alt="Virtual Strong Box" />
                             <div class="content">
-                                <h3>Virtual Strong Box</h3>
+                                <h3 class="pt-13">Secure Information Platform Solutions</h3>
                                 <div class="rollover">
-                                    <p>A secure platform that addresses the balance of data security and consumer convenience.</p>
+                                    <p>RecordLyf, offered in partnership with Virtual StrongBox, provides a safe
+                                        online platform for personal storage and serves as a secure platform for
+                                        document sharing.</p>
                                 </div>
                             </div>
                         </a>
                     </div>
                 </div>
+
 
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
@@ -318,7 +338,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="#">
-                            <img src="https://via.placeholder.com/300x250" alt="Engageware" />
+                            <img src="assets/images/solutions/placeholder-card.png" alt="Engageware" />
                             <div class="content">
                                 <h3>Engageware</h3>
                                 <div class="rollover">
@@ -361,7 +381,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="#">
-                            <img src="https://via.placeholder.com/300x250" alt="Lenderful (CUSG)" />
+                            <img src="assets/images/solutions/placeholder-card.png" alt="Lenderful (CUSG)" />
                             <div class="content">
                                 <h3>Lenderful (CUSG)</h3>
                                 <div class="rollover">
@@ -375,11 +395,12 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="https://myleverage.com/solutions/passtime.php">
-                            <img src="assets/images/solutions/passtime-card.png" alt="Planning Pro" />
+                            <img src="assets/images/solutions/passtime-card.png" alt="PassTime GPS" />
                             <div class="content">
-                                <h3>Planning Pro)</h3>
+                                <h3>GPS Tracking</h3>
                                 <div class="rollover">
-                                    <p>info to come.</p>
+                                    <p>PassTime is the industry leader in high-tech GPS tracking and automated
+                                        collection technology solutions for auto financing other vehicles.</p>
                                 </div>
                             </div>
                         </a>
@@ -403,7 +424,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="#">
-                            <img src="https://via.placeholder.com/300x250" alt="Video Banking (CUSG)" />
+                            <img src="assets/images/solutions/placeholder-card.png" alt="Video Banking (CUSG)" />
                             <div class="content">
                                 <h3>Video Banking (CUSG)</h3>
                                 <div class="rollover">
