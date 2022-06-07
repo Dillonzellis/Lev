@@ -115,9 +115,12 @@
                         <a class="event" href="https://myleverage.com/solutions/access-softek.php">
                             <img src="assets/images/core-solutions/access.png" alt="Access Softek" />
                             <div class="content">
-                                <h3>Access Softek</h3>
-                                <div class="rollover">
-                                    <p>Award-winning solutions integrated directly into a financial institution’s digital banking platform.</p>
+                                <h3 class="pt-13">Online, Mobile and Account Opening Solutions</h3>
+                                <div class="rollover pt-5">
+                                    <p>Access Softek has been delivering technological innovations in the fintech
+                                        space with credit unions for decades. It offers features and functionality that
+                                        include advanced authentication, real time P2P (including Zelle), advanced
+                                        bill pay options and sophisticated target marketing.</p>
                                 </div>
                             </div>
                         </a>
@@ -129,9 +132,11 @@
                         <a class="event" href="https://myleverage.com/solutions/check-printing.php">
                             <img src="assets/images/core-solutions/check-pr.png" alt="Check Printing Contract Consulting" />
                             <div class="content">
-                                <h3 class="pt-13">Check Printing Contract Consulting</h3>
+                                <h3>Check Solutions</h3>
                                 <div class="rollover">
-                                    <p>Provides volume discounts to help large asset sized credit unions significantly reduce the cost of printing member checks.</p>
+                                    <p>Check Printing Contract Consulting provides volume discounts, negotiating
+                                        on behalf of large asset sized credit unions, significantly reducing the cost of
+                                        printing checks.</p>
                                 </div>
                             </div>
                         </a>
@@ -141,11 +146,12 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="https://myleverage.com/solutions/ddi.php">
-                            <img src="assets/images/core-solutions/ddi-tech.png" alt="DDI Technology"/>
+                            <img src="assets/images/core-solutions/ddi-tech.png" alt="DDI Technology" />
                             <div class="content">
-                                <h3>DDI Technology</h3>
+                                <h3 class="pt-13">Electronic & Paper Vehicle Titles</h3>
                                 <div class="rollover">
-                                    <p>Providing lenders with the resources and tools needed for processing titles more efficiently.</p>
+                                    <p>DDI can manage your paper and electronic vehicle titles in all 50 states. DDI
+                                        also offers a Total Payoff program.</p>
                                 </div>
                             </div>
                         </a>
@@ -157,9 +163,11 @@
                         <a class="event" href="https://www.deluxe.com/financial-institutions/">
                             <img src="assets/images/solutions/deluxe-card.png" alt="Deluxe" />
                             <div class="content">
-                                <h3>Deluxe</h3>
+                                <h3>Financial Services</h3>
                                 <div class="rollover">
-                                    <p>Changing the way business gets done.</p>
+                                    <p>Deluxe is strategically transforming to a solutions-provider that drives growth
+                                        for credit unions through payments, performance management, digital
+                                        channels, and small business marketing services.</p>
                                 </div>
                             </div>
                         </a>
@@ -171,9 +179,11 @@
                         <a class="event" href="https://myleverage.com/solutions/glia.php">
                             <img src="assets/images/solutions/glia-card.png" alt="Glia" />
                             <div class="content">
-                                <h3>Glia</h3>
+                                <h3>Digital Member Service</h3>
                                 <div class="rollover">
-                                    <p>Digital member service experience that is always on-screen and starts wherever the person is.</p>
+                                    <p>Glia is a unified digital communication platform to serve members at their
+                                        point of need online through person-to-person video, audio, phone, chat,
+                                        text and/or social media..</p>
                                 </div>
                             </div>
                         </a>
@@ -185,9 +195,11 @@
                         <a class="event" href="https://myleverage.com/solutions/nada.php">
                             <img src="assets/images/solutions/jd-card.png" alt="JD Power Valuation Services" />
                             <div class="content">
-                                <h3>JD Power Valuation Services</h3>
+                                <h3>Vehicle Valuations</h3>
                                 <div class="rollover">
-                                    <p>Vehicle valuation solutions.</p>
+                                    <p>J.D. Power Valuation Services (formerly known as NADA Used Car Guide)
+                                        provides the most convenient access to valuation data for all types of new
+                                        and used vehicles.</p>
                                 </div>
                             </div>
                         </a>
@@ -201,7 +213,7 @@
                             <div class="content">
                                 <h3>JMFA Contract Optimizer</h3>
                                 <div class="rollover">
-                                    <p>Earn non-interest income and provide a quality overdraft protection program to your members.</p>
+                                    <p>A contingency-based service with a 98% success rate for helping banks and credit unions save millions in vendor contract expenses – much more than their vendor’s “best and final” offer.</p>
                                 </div>
                             </div>
                         </a>
@@ -213,9 +225,13 @@
                         <a class="event" href="https://myleverage.com/solutions/onedigital.php">
                             <img src="assets/images/solutions/synergi-card.png" alt="OneDigital & Synergi Partners" />
                             <div class="content">
-                                <h3 class="pt-13">OneDigital & Synergi Partners</h3>
-                                <div class="rollover">
-                                    <p>Pandemic relief CARES Act credit for full/partial suspension of operations, or % reduction of gross receipts.</p>
+                                <h3>Tax Credit</h3>
+                                <div class="rollover pt-5">
+                                    <p>Credit Unions may be eligible for an Employee Retention Credit (ERC) of up
+                                        to $26,000 due to full or partial suspension of business operations from a
+                                        government order or a significant decline in gross receipts in 2020 and/or 2021.
+                                        OneDigital & Synergi Partners can work Credit Unions of 25 or more employees.
+                                        (Note: CUACG has a solution for Credit Unions of less than 25 employees.)</p>
                                 </div>
                             </div>
                         </a>
@@ -227,9 +243,12 @@
                         <a class="event" href="https://myleverage.com/solutions/osg.php">
                             <img src="assets/images/solutions/osg-card.png" alt="OSG" />
                             <div class="content">
-                                <h3>OSG</h3>
-                                <div class="rollover">
-                                    <p>Global provider of leading customer engagement and payment solutions. Modernized processes, frictionless experiences.</p>
+                                <h3>Printing & E-Statements</h3>
+                                <div class="rollover pt-5">
+                                    <p>OSG can help your credit union deliver enhanced statement designs that
+                                        communicate to the member in a manner that is clear, concise and correct.
+                                        Their technology and services deliver exceptional solutions to fit your
+                                        statement delivery communication requirements.</p>
                                 </div>
                             </div>
                         </a>
@@ -241,9 +260,13 @@
                         <a class="event" href="https://myleverage.com/solutions/par.php">
                             <img src="assets/images/solutions/par-card.png" alt="Partners in Asset Recovery (PAR)" />
                             <div class="content">
-                                <h3 class="pt-13">Partners in Asset Recovery (PAR)</h3>
-                                <div class="rollover">
-                                    <p>Unparalleled nationwide total asset management from start to finish.</p>
+                                <h3>Vehicle Transition Solutions</h3>
+                                <div class="rollover pt-5">
+                                    <p>PAR North America is the leading nationwide provider of vehicle transition
+                                        services including recovery management, skip tracing, compliance,
+                                        remarketing and title services. PAR leverages its corporate family
+                                        connections under the KAR Global umbrella to provide unique end-to-end
+                                        solutions to credit unions.</p>
                                 </div>
                             </div>
                         </a>
@@ -253,7 +276,7 @@
                 <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="#">
-                            <img src="https://via.placeholder.com/300x250" alt="Office Depot" />
+                            <img src="assets/images/solutions/placeholder-card.png" alt="Office Depot" />
                             <div class="content">
                                 <h3>Office Depot</h3>
                                 <div class="rollover">
