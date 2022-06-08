@@ -268,9 +268,10 @@
                         <div class="content">
                             <h3>Digital Member Service</h3>
                             <div class="rollover">
-                                <p>Glia is a unified digital communication platform to serve members at their
-                                    point of need online through person-to-person video, audio, phone, chat,
-                                    text and/or social media..</p>
+                                <p>Credit Unions may be eligible for an Employee Retention Credit (ERC) of up
+                                    to $26,000 due to full or partial suspension of business operations from a
+                                    government order or a significant decline in gross receipts in 2020 and/or 2021.
+                                    .</p>
                             </div>
                         </div>
                     </a>
@@ -317,8 +318,7 @@
                                 <p>Credit Unions may be eligible for an Employee Retention Credit (ERC) of up
                                     to $26,000 due to full or partial suspension of business operations from a
                                     government order or a significant decline in gross receipts in 2020 and/or 2021.
-                                    OneDigital & Synergi Partners can work Credit Unions of 25 or more employees.
-                                    (Note: CUACG has a solution for Credit Unions of less than 25 employees.)</p>
+                                </p>
                             </div>
                         </div>
                     </a>
@@ -351,9 +351,8 @@
                             <div class="rollover pt-5">
                                 <p>PAR North America is the leading nationwide provider of vehicle transition
                                     services including recovery management, skip tracing, compliance,
-                                    remarketing and title services. PAR leverages its corporate family
-                                    connections under the KAR Global umbrella to provide unique end-to-end
-                                    solutions to credit unions.</p>
+                                    remarketing and title services.
+                                </p>
                             </div>
                         </div>
                     </a>
@@ -579,11 +578,10 @@
                             <div class="content">
                                 <h3>LendKey</h3>
                                 <div class="rollover pt-5">
-                                    <p>LendKey helps credit unions grow and diversify their loan portfolios with
-                                        unique turn-key lending solutions. With their home improvement loan
-                                        participation program and private student loan and refinance platforms,
-                                        LendKey is there from origination through servicing to minimize on-going
-                                        due diligence, ensure compliance and maximize access to new loans.</p>
+                                    <p>LendKey helps credit unions grow and diversify with unique turn-key lending
+                                        solutions, including a home improvement loan participation program, as well
+                                        as private student loan and student refinance loan platforms.
+                                    </p>
                                 </div>
                             </div>
                         </a>
@@ -614,11 +612,10 @@
                             <div class="content">
                                 <h3>Business Loans</h3>
                                 <div class="rollover pt-5">
-                                    <p>As a commercial lending CUSO, Member Business Financial Services
-                                        provides a wide variety of business services including credit analysis, loan
-                                        document preparation, shared relationship manager programs, portfolio risk
-                                        management, and loan servicing, as well as a wide variety of training options
-                                        for your board and staff.</p>
+                                    <p>Member Business Financial Services, a CUSO focused on business loans, provides
+                                        credit analysis, loan document preparation, relationship management, and loan
+                                        servicing for credit unions.
+                                    </p>
                                 </div>
                             </div>
                         </a>
