@@ -180,9 +180,9 @@
                     <div class="caption_info">
                         <div class="container">
                             <div class="inner inner-text-left">
-                                <h1>DDI</h1>
-                                <p>Streamline Your Title & Lien Release Management</p>
-                                <a href="https://myleverage.com/solutions/ddi.php" class="store_btn green radial-out"><strong>Learn More</strong></a>
+                                <h1>LendKey</h1>
+                                <p>Giving credit unions the inside track with prime borrowers.</p>
+                                <a href="https://www.lendkey.com/lend/" class="store_btn green radial-out"><strong>Learn More</strong></a>
                             </div>
                         </div>
                     </div>
