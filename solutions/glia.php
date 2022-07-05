@@ -304,7 +304,7 @@
 
                             </div>
                         </div>
-                        <p><a href="mailto:consult@myleverage.com" class="myButton">Contact Us</a></p>
+                
                     </div>
 
                 </div>
