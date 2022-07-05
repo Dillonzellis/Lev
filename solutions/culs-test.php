@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>LEVERAGE - Glia</title>
+    <title>LEVERAGE - CULS</title>
     <link rel="shortcut icon" type="image/x-icon" href="../assets/images/favicon.ico" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -102,11 +102,11 @@
     <!-- Slider Sec -->
     <section class="inner_banner">
         <div class="container">
-            <h1><img src="../assets/images/logos/glia.png" alt="Access Softek, Inc." width="340" height="169" class="img-fluid"></h1>
+            <h1><img src="../assets/images/CULS_vert_white.png" alt="CULS" width="189" height="189" class="img-fluid"></h1>
             <ul class="breadcrum">
                 <li><a href="../index.php">Home</a></li>
                 <li><a href="../solutions.php">Solutions</a></li>
-                <li>Glia</li>
+                <li>CULS</li>
             </ul>
         </div>
     </section>
@@ -118,31 +118,25 @@
                 <div class="col-lg-8 col-md-8">
                     <div class="detail">
 
-                        <p>Glia, available from LEVERAGE, breaks down the walls of traditional member support by combining all communication means into one unified, digital member service experience that is always on-screen and starts wherever the person is. Regardless of where it begins, each interaction can easily and seamlessly move between channels, without losing continuity and context or having to restart the conversation – gone are the days of “Please re-enter your...”</p>
+                        <p>The National Automobile Dealers Association is forecasting new and used car sales to remain on the strong course they have followed in
+                            recent years. Credit unions now have a unique opportunity to corner this market through the new LEVERAGE partner, Credit Union Loan Source (CULS).</p>
 
-                        <p><strong style="font-weight: 600;">Reducing Member Effort</strong></p>
+                        <p>CULS’ deep experience and expertise in the auto lending industry offers investing credit unions the chance to increase revenue by taking advantage of indirect auto loan participations originated through a network of franchise dealers across eight states. Loans are underwritten to uniform credit guidelines for prime loans (640 FICO and above) and are designed to maximize net yields while maintaining acceptable levels of credit risk and loss performance. CULS expertise, state of the art systems and nimble culture offer an attractive option for investing credit unions to grow their loan portfolio with assets that target net yields of 425+ bps inclusive of losses.</p>
 
-                        <p>Credit unions thrive on the high-touch, personalized one-to-one service they offer. Glia reduces member efforts by offering:</p>
+                        <p>Funded loans are pooled together and sold monthly to investing credit unions and due diligence is easily performed by accessing the
+                            CULS loan origination system where all the originating documentation including the loan agreements and credit reports are available for review.</p>
 
+                        <p><strong style="font-weight: 600;">The advantages to those participating are clear:</strong></p>
                         <ul style="list-style: disc; padding-left: 25px;">
-                            <li>• <strong style="font-weight: 600;">Engage Members</strong> - Using chat, social, SMS, phone, online voice and video</li>
-                            <li>• <strong style="font-weight: 600;">Live Observation</strong> - Enables member service
-                                representatives to see what a visitor sees</li>
-                            <li>• <strong style="font-weight: 600;">Dual-cursor CoBrowsing</strong> - Empowers
-                                member service representatives to view and
-                                co-pilot members’ on-screen experiences</li>
-                            <li>• <strong style="font-weight: 600;">AI-powered operator assistants</strong> - Gives
-                                contextual response suggestions and
-                                compliance alerts to member service
-                                representatives to support serving members</li>
-                            <li>• <strong style="font-weight: 600;">AI Orchestrator</strong> - Enables plug-and-play
-                                management of multiple bot engines, along
-                                with tools to optimize them</li>
+                            <li>• Operational excellence: Industry expertise, uniform credit guidelines, loan documentation, performance analytics</li>
+                            <li>• Investors share in the risks and rewards: Each credit union owns a portion of every loan in the pool</li>
+                            <li>• Portfolio Diversification: Geographic diversification from 8 states as well as asset class</li>
+                            <li>• Lower risk loans: Prime lending program, nothing subprime (640+ FICO scores)</li>
+                            <li>• Transparency: Regulator-friendly program with a long track record</li>
+                            <li>• Profitability: CULS targets a net yield of 4.25%+ (inclusive of losses)</li>
                         </ul>
 
-                        <p><strong style="font-weight: 600;">Enterprise Reliability and Security</strong></p>
-
-                        <p>Glia’s platform was architected from the ground-up to exceed the security, reliability and compliance needs of the most demanding financial enterprises. Glia masks out sensitive form fields on-screen and encrypts interactions to ensure privacy, security, and peace of mind for customers and agents. Glia runs on a hardened Amazon Web Services (AWS) infrastructure, using the latest encryption technologies and independently deployable microservices to ensure scalability and high availability. Dedicated GSEC-certified security staff and SOC-2 audited controls provide end-to-end security validated by independent experts and major financial institution security/compliance teams.</p>
+                        <!-- <p><a href="mailto:consult@myleverage.com" class="myButton">Contact Us!</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="../assets/docs/CULS-Product-Sheet.pdf" target="_blank" class="myButton">Resources</a></p> -->
 
 
                         <h2>FAQs</h2>
@@ -152,28 +146,13 @@
                                 <div class="card">
                                     <div class="card-header" id="headingOne">
                                         <h2 class="mb-0">
-                                            <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseOne"><i class="fa fa-plus"></i> How can Glia help our credit union with the increased number of interactions we are getting?</button>
+                                            <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseOne"><i class="fa fa-plus"></i> Who can participate in the program?</button>
                                         </h2>
                                     </div>
                                     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
                                         <div class="card-body">
-                                            <p>More and more, members are engaging with you
-                                                through online channels, like your online banking
-                                                site, or mobile banking application. Glia allows you
-                                                to meet your members at their point of need and
-                                                provides a digital-first servicing option. This way, the
-                                                member can engage with you via chat, text, video, or
-                                                audio, directly from your digital property. When the
-                                                member initiates an engagement with you directly
-                                                from your site, this eliminates the need to call the
-                                                credit union. For those members who do contact
-                                                the credit union through an off-line phone call, Glia
-                                                enables you to pair their phone calls with a digital
-                                                session, so the operator can utilize Live Observation
-                                                of the member’s screen, CoBrowse with the member
-                                                through their web session, teach the member how to
-                                                use the digital properties, and ultimately achieve first
-                                                call resolution.</p>
+                                            <p>State chartered Credit Unions as well as
+                                                banks can participate in CULS pools.</p>
 
                                         </div>
                                     </div>
@@ -182,20 +161,17 @@
                                 <div class="card">
                                     <div class="card-header" id="headingTwo">
                                         <h2 class="mb-0">
-                                            <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseTwo"><i class="fa fa-plus"></i> What is the implementation timeframe for Glia?</button>
+                                            <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseTwo"><i class="fa fa-plus"></i> What approvals are required to participate in the program? (NCUA, Board, underwriting?)</button>
                                         </h2>
                                     </div>
                                     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
                                         <div class="card-body">
-                                            <p>Glia is an extremely lightweight platform and can
-                                                easily be integrated into your digital assets, like your
-                                                public site, online banking portal, lending pages,
-                                                etc., with a single line of javascript. Furthermore,
-                                                the implementation timeframe is typically three to
-                                                six weeks; this includes integration into your digital
-                                                properties, configuration of business logic rules
-                                                on your sites, as well as training for your staff and
-                                                operators.</p>
+                                            <p>Each credit union is required to obtain
+                                                regulatory approval from the NCUA and,
+                                                depending on the state, may need to seek
+                                                approval from their state regulator as well.
+                                                The credit union may also need to take a
+                                                formal vote to their Board.</p>
 
                                         </div>
                                     </div>
@@ -204,28 +180,16 @@
                                 <div class="card">
                                     <div class="card-header" id="headingFour">
                                         <h2 class="mb-0">
-                                            <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseFour"><i class="fa fa-plus"></i> What support do you provide to the credit union at implementation?</button>
+                                            <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseFour"><i class="fa fa-plus"></i> What are the minimum commitments?</button>
                                         </h2>
                                     </div>
                                     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
                                         <div class="card-body">
-                                            <p>Glia is committed to providing WhiteGlove
-                                                Service with all of our customers, starting with
-                                                the implementation process all the way through
-                                                post-launch and beyond. Glia will assign a Launch
-                                                Manager, who will guide you through the three
-                                                to six week implementation period to launch day.
-                                                Additionally, a Customer Success Manager will be
-                                                designated to your credit union. The CSM is your
-                                                consultative expert who will help establish your
-                                                strategic objectives, as well as the key performance
-                                                indicators for your member interactions. Not only
-                                                will your CSM actively monitor usage and interaction
-                                                rates, but they will also provide guidance and best
-                                                practices along the way, in addition to conducting
-                                                quarterly business reviews to ensure a strong
-                                                return on your investment and an excellent overall
-                                                experience.</p>
+                                            <p>The minimum monthly commitment
+                                                amount is $250,000. We do require that
+                                                investors sign a 6 month Commitment to
+                                                Purchase and provide a 12 month Intent to
+                                                Purchase.</p>
 
                                         </div>
                                     </div>
@@ -234,17 +198,15 @@
                                 <div class="card">
                                     <div class="card-header" id="headingFive">
                                         <h2 class="mb-0">
-                                            <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseFive"><i class="fa fa-plus"></i> Does Glia require integration to our core processor?</button>
+                                            <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseFive"><i class="fa fa-plus"></i> Can we change our commitment?</button>
                                         </h2>
                                     </div>
                                     <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
                                         <div class="card-body">
-                                            <p>No, Glia does not require integration into
-                                                your core processor. Rather, Glia is a system
-                                                of engagement that interacts with your digital
-                                                properties, and the technology providers for those
-                                                sites (i.e. digital banking, online account opening
-                                                and lending, marketing sites, etc).</p>
+                                            <p>We try to be as flexible as possible, we
+                                                can make adjustments to commitments with
+                                                30 days’ notice prior to commencement of a
+                                                pool.</p>
 
                                         </div>
                                     </div>
@@ -253,23 +215,14 @@
                                 <div class="card">
                                     <div class="card-header" id="headingSix">
                                         <h2 class="mb-0">
-                                            <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseSix"><i class="fa fa-plus"></i> What is CoBrowsing and how can it help provide better service to members?</button>
+                                            <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseSix"><i class="fa fa-plus"></i> Who originates and services the loans?</button>
                                         </h2>
                                     </div>
                                     <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
                                         <div class="card-body">
-                                            <p>CoBrowsing, short for collaborative browsing, is
-                                                joint navigation through the same site at the same
-                                                time between the Member Service Representative
-                                                or call center agent and the member. When
-                                                coupled with Live Observation, or the agent’s
-                                                ability to see the member’s session in real-time,
-                                                CoBrowsing is an incredibly effective way to teach
-                                                the member how to use the site and guide them
-                                                through their session. In most cases, our customers
-                                                experience a 20% faster issue resolution timeframe
-                                                as well as drastic improvements in Member
-                                                Satisfaction scores.</p>
+                                            <p>CULS controls the entire lifecycle of
+                                                the loan, from origination to serving and
+                                                collections.</p>
 
                                         </div>
                                     </div>
@@ -278,24 +231,52 @@
                                 <div class="card">
                                     <div class="card-header" id="headingSeven">
                                         <h2 class="mb-0">
-                                            <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseSeven"><i class="fa fa-plus"></i> How does Glia work with my existing chatbot provider?</button>
+                                            <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseSeven"><i class="fa fa-plus"></i> How frequently are pools sold?</button>
                                         </h2>
                                     </div>
                                     <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionExample">
                                         <div class="card-body">
-                                            <p>Glia complements any AI engine, and serves
-                                                as the framework through which chatbot and
-                                                live agent interactions are managed. This way,
-                                                the credit union can deploy finely-tuned bots for
-                                                specific areas of the site to optimize the user’s
-                                                experience. This benefits the credit union by
-                                                centralizing all routing and queueing, bot-tohuman
-                                                transfers, and reporting into one system.
-                                                Additionally, the AI engine can be leveraged to
-                                                provide live agents with assisted responses based
-                                                on the member’s specific question, which reduces
-                                                the average handling timeframes and creates
-                                                greater efficiencies across the service operation.</p>
+                                            <p>Loan pools are originated on a monthly
+                                                basis. Each month, a pool closes and there is
+                                                a settlement of all loans that were purchased
+                                                that month.</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="card">
+                                    <div class="card-header" id="headingEight">
+                                        <h2 class="mb-0">
+                                            <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseEight"><i class="fa fa-plus"></i> How does the credit union perform due diligence on the pool of loans?</button>
+                                        </h2>
+                                    </div>
+                                    <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionExample">
+                                        <div class="card-body">
+                                            <p>There is a structured process by which
+                                                each credit union is able to perform audits on
+                                                each monthly pool. During the onboarding
+                                                process, you will be given access to the
+                                                Defi Loan Origination System as well as a
+                                                file sharing site called ShareFile. ShareFile
+                                                contains all of the reporting and information
+                                                needed to conduct monthly audits.</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="card">
+                                    <div class="card-header" id="headingNine">
+                                        <h2 class="mb-0">
+                                            <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseNine"><i class="fa fa-plus"></i> Are these carried as loans or investments on the credit union's books?</button>
+                                        </h2>
+                                    </div>
+                                    <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordionExample">
+                                        <div class="card-body">
+                                            <p>Investment in CULS pools are carried as
+                                                loans. They are recorded on the Participation
+                                                Loan line on the credit union’s call report.</p>
 
                                         </div>
                                     </div>
@@ -304,7 +285,7 @@
 
                             </div>
                         </div>
-                
+
                     </div>
 
                 </div>
@@ -354,7 +335,7 @@
 
         <p>To fulfill your request, please provide the following:</p>
         <p><em>* = Required field.</em></p>
-        <p align="center"><iframe src="https://go.pardot.com/l/513811/2021-12-07/3t53bpl" width="100%" height="325" type="text/html" frameborder="0" allowTransparency="true" style="border: 0"></iframe></p>
+        <p align="center"><iframe src="https://go.pardot.com/l/513811/2022-07-01/3twrxf2" width="100%" height="500" type="text/html" frameborder="0" allowTransparency="true" style="border: 0"></iframe></p>
         <a data-remodal-action="cancel" class="remodal-cancel" href="#">Close</a>
     </div>
 
