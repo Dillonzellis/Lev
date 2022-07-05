@@ -182,7 +182,7 @@
 
         <p>To fulfill your request, please provide the following:</p>
         <p><em>* = Required field.</em></p>
-        <p align="center"><iframe src="https://go.pardot.com/l/513811/2022-07-05/3twzm9c" width="100%" height="500" type="text/html" frameborder="0" allowTransparency="true" style="border: 0"></iframe>Close</a>
+        <p align="center"><iframe src="https://go.pardot.com/l/513811/2022-07-05/3twzm9c" width="100%" height="500" type="text/html" frameborder="0" allowTransparency="true" style="border: 0"></iframe><a data-remodal-action="cancel" class="remodal-cancel" href="#">Close</a>
     </div>
 
 </body>
