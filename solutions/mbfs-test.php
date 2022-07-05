@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <title>LEVERAGE - Glia</title>
+    <title>LEVERAGE - MBFS</title>
     <link rel="shortcut icon" type="image/x-icon" href="../assets/images/favicon.ico" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -102,11 +102,11 @@
     <!-- Slider Sec -->
     <section class="inner_banner">
         <div class="container">
-            <h1><img src="../assets/images/logos/glia.png" alt="Access Softek, Inc." width="340" height="169" class="img-fluid"></h1>
+            <h1><img src="../assets/images/logos/mbfs.png" alt="MBFS" width="340" height="169" class="img-fluid"></h1>
             <ul class="breadcrum">
                 <li><a href="../index.php">Home</a></li>
                 <li><a href="../solutions.php">Solutions</a></li>
-                <li>Glia</li>
+                <li>MBFS</li>
             </ul>
         </div>
     </section>
@@ -117,33 +117,70 @@
 
                 <div class="col-lg-8 col-md-8">
                     <div class="detail">
+                        <p>Member Business Financial Services, LLC (MBFS)
+                            was created to assist credit unions in providing
+                            services to the local business community in a safe,
+                            efficient, and effective manner. MBFS is owned
+                            by credit unions and uses that inside perspective
+                            in helping credit unions provide more business
+                            loans at a cost lower than they could individually.
+                            Since its inception in 2008, the CUSO has grown
+                            to manage 7,500+ business loans with more than
+                            $2 billion in business loan balances.</p>
 
-                        <p>Glia, available from LEVERAGE, breaks down the walls of traditional member support by combining all communication means into one unified, digital member service experience that is always on-screen and starts wherever the person is. Regardless of where it begins, each interaction can easily and seamlessly move between channels, without losing continuity and context or having to restart the conversation – gone are the days of “Please re-enter your...”</p>
+                        <p><strong style="font-weight: 600;">Business Loan Training and Program Strategic Development</strong></p>
 
-                        <p><strong style="font-weight: 600;">Reducing Member Effort</strong></p>
+                        <p>MBFS offers comprehensive training to
+                            credit union boards of directors and senior
+                            management on a wide variety of topics. Training
+                            can be delivered either in person or virtually.
+                            Programs are customizable to meet specific needs
+                            but can include loan policy development, starting
+                            a business lending program, sales planning, and
+                            risk management.</p>
 
-                        <p>Credit unions thrive on the high-touch, personalized one-to-one service they offer. Glia reduces member efforts by offering:</p>
+                        <p><strong style="font-weight: 600;">Transactional Services</strong></p>
 
                         <ul style="list-style: disc; padding-left: 25px;">
-                            <li>• <strong style="font-weight: 600;">Engage Members</strong> - Using chat, social, SMS, phone, online voice and video</li>
-                            <li>• <strong style="font-weight: 600;">Live Observation</strong> - Enables member service
-                                representatives to see what a visitor sees</li>
-                            <li>• <strong style="font-weight: 600;">Dual-cursor CoBrowsing</strong> - Empowers
-                                member service representatives to view and
-                                co-pilot members’ on-screen experiences</li>
-                            <li>• <strong style="font-weight: 600;">AI-powered operator assistants</strong> - Gives
-                                contextual response suggestions and
-                                compliance alerts to member service
-                                representatives to support serving members</li>
-                            <li>• <strong style="font-weight: 600;">AI Orchestrator</strong> - Enables plug-and-play
-                                management of multiple bot engines, along
-                                with tools to optimize them</li>
+                            <li>• Credit Analysis for New & Existing Loan</li>
+                            <li>• Independent Portfolio Reviews</li>
+                            <li>• Loan Documentation</li>
+                            <li>• Loan Servicing & Portfolio Monitoring</li>
                         </ul>
 
-                        <p><strong style="font-weight: 600;">Enterprise Reliability and Security</strong></p>
+                        <p><strong style="font-weight: 600;">Credit Union Shared Relationship Managers</strong></p>
 
-                        <p>Glia’s platform was architected from the ground-up to exceed the security, reliability and compliance needs of the most demanding financial enterprises. Glia masks out sensitive form fields on-screen and encrypts interactions to ensure privacy, security, and peace of mind for customers and agents. Glia runs on a hardened Amazon Web Services (AWS) infrastructure, using the latest encryption technologies and independently deployable microservices to ensure scalability and high availability. Dedicated GSEC-certified security staff and SOC-2 audited controls provide end-to-end security validated by independent experts and major financial institution security/compliance teams.</p>
+                        <p>A serious challenge for credit union business
+                            services programs is hiring and retaining skilled,
+                            qualified candidates in a cost-effective fashion.
+                            MBFS offers credit union clients a Shared
+                            Relationship Manager service to combat this
+                            problem. MBFS hires a business lender to work
+                            in a geographic market shared among credit
+                            unions. Participating credit unions share in new
+                            loan originations as a lead lender or participant.
+                            This system allows credit unions to efficiently grow
+                            their portfolios of both member and nonmember
+                            business loans.</p>
 
+                        <p><strong style="font-weight: 600;">Nu Direction Lending</strong></p>
+
+                        <p>Credit unions can often struggle to fund loans to
+                            small businesses that may need non-real estate
+                            loans to grow their business. MBFS has formed Nu
+                            Direction Lending to help fill in the gap for these
+                            loans to small businesses. The loans are funded in
+                            a fintech-like atmosphere for your member. The
+                            loans are then divided up multiple times to sell
+                            the loans to credit union participants in a strongly
+                            diversified risk basis. Credit unions can also act as
+                            a referral partner for Nu Direction Lending and to
+                            build fee income at the credit union.</p>
+
+                        <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/WYvIfaahU_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+
+                        <!-- <p><a href="mailto:consult@myleverage.com" class="myButton">Contact Us!</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="../assets/docs/MBFS-Product-Sheet.pdf" target="_blank" class="myButton">Resources</a></p> -->
 
                         <h2>FAQs</h2>
 
@@ -152,29 +189,20 @@
                                 <div class="card">
                                     <div class="card-header" id="headingOne">
                                         <h2 class="mb-0">
-                                            <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseOne"><i class="fa fa-plus"></i> How can Glia help our credit union with the increased number of interactions we are getting?</button>
+                                            <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseOne"><i class="fa fa-plus"></i> Is my credit union big enough to do business lending?</button>
                                         </h2>
                                     </div>
                                     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
                                         <div class="card-body">
-                                            <p>More and more, members are engaging with you
-                                                through online channels, like your online banking
-                                                site, or mobile banking application. Glia allows you
-                                                to meet your members at their point of need and
-                                                provides a digital-first servicing option. This way, the
-                                                member can engage with you via chat, text, video, or
-                                                audio, directly from your digital property. When the
-                                                member initiates an engagement with you directly
-                                                from your site, this eliminates the need to call the
-                                                credit union. For those members who do contact
-                                                the credit union through an off-line phone call, Glia
-                                                enables you to pair their phone calls with a digital
-                                                session, so the operator can utilize Live Observation
-                                                of the member’s screen, CoBrowse with the member
-                                                through their web session, teach the member how to
-                                                use the digital properties, and ultimately achieve first
-                                                call resolution.</p>
-
+                                            <p>70 percent of credit unions over $50
+                                                million in assets have at least one commercial
+                                                loan on the books. That doesn’t include
+                                                business purpose loans under $50,000 or
+                                                residential rental properties that do not meet
+                                                the regulatory definition of a business loan.
+                                                In 2017, the NCUA also provided small credit
+                                                unions regulatory relief that are looking to
+                                                assist members with business-related needs.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -182,20 +210,43 @@
                                 <div class="card">
                                     <div class="card-header" id="headingTwo">
                                         <h2 class="mb-0">
-                                            <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseTwo"><i class="fa fa-plus"></i> What is the implementation timeframe for Glia?</button>
+                                            <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo"><i class="fa fa-plus"></i> What if we don't have anyone in-house to do business loans?</button>
                                         </h2>
                                     </div>
                                     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
                                         <div class="card-body">
-                                            <p>Glia is an extremely lightweight platform and can
-                                                easily be integrated into your digital assets, like your
-                                                public site, online banking portal, lending pages,
-                                                etc., with a single line of javascript. Furthermore,
-                                                the implementation timeframe is typically three to
-                                                six weeks; this includes integration into your digital
-                                                properties, configuration of business logic rules
-                                                on your sites, as well as training for your staff and
-                                                operators.</p>
+                                            <p>NCUA Regulations permit the use of
+                                                a CUSO that is independent of the loan
+                                                transaction to assist the credit union with
+                                                business lending. Like other vendors, the
+                                                credit union must conduct due diligence
+                                                along with understanding risks associated
+                                                with business lending relative to size and
+                                                complexity of the loan portfolio.</p>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="card">
+                                    <div class="card-header" id="headingThree">
+                                        <h2 class="mb-0">
+                                            <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree"><i class="fa fa-plus"></i> Are residential rental properties still business loans?</button>
+                                        </h2>
+                                    </div>
+                                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                                        <div class="card-body">
+                                            <p>Yes and No. In 2018, Congress amended
+                                                the Federal Credit Union Act so that loans
+                                                secured with any 1-4 family residential
+                                                property are no longer classified as a member
+                                                business loan. However, credit unions must
+                                                still properly underwrite, close and manage
+                                                the risk associated with this category of
+                                                loan. Residential investment property loans
+                                                have many of the same risk characteristics
+                                                of business loans and should be managed
+                                                differently than residential mortgages.</p>
 
                                         </div>
                                     </div>
@@ -204,28 +255,25 @@
                                 <div class="card">
                                     <div class="card-header" id="headingFour">
                                         <h2 class="mb-0">
-                                            <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseFour"><i class="fa fa-plus"></i> What support do you provide to the credit union at implementation?</button>
+                                            <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFour"><i class="fa fa-plus"></i> Why are SBA loans so difficult?</button>
                                         </h2>
                                     </div>
                                     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
                                         <div class="card-body">
-                                            <p>Glia is committed to providing WhiteGlove
-                                                Service with all of our customers, starting with
-                                                the implementation process all the way through
-                                                post-launch and beyond. Glia will assign a Launch
-                                                Manager, who will guide you through the three
-                                                to six week implementation period to launch day.
-                                                Additionally, a Customer Success Manager will be
-                                                designated to your credit union. The CSM is your
-                                                consultative expert who will help establish your
-                                                strategic objectives, as well as the key performance
-                                                indicators for your member interactions. Not only
-                                                will your CSM actively monitor usage and interaction
-                                                rates, but they will also provide guidance and best
-                                                practices along the way, in addition to conducting
-                                                quarterly business reviews to ensure a strong
-                                                return on your investment and an excellent overall
-                                                experience.</p>
+                                            <p>Loans guaranteed by the Small Business
+                                                Administration are an excellent way
+                                                to complement your business lending
+                                                program and provide financing to the local
+                                                community. However, unless the credit
+                                                union has extensive in-house resources and
+                                                experience in underwriting, closing, and
+                                                servicing these loans, it can be a frustrating
+                                                experience. The SBA loan process can be
+                                                quite different from traditional business loans.
+                                                It is highly advisable to utilize a third party
+                                                who specializes in this type of financing to
+                                                make the process much more pleasant for the
+                                                borrower and credit union.</p>
 
                                         </div>
                                     </div>
@@ -234,77 +282,30 @@
                                 <div class="card">
                                     <div class="card-header" id="headingFive">
                                         <h2 class="mb-0">
-                                            <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseFive"><i class="fa fa-plus"></i> Does Glia require integration to our core processor?</button>
+                                            <button type="button" class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseFive"><i class="fa fa-plus"></i> Can I buy participation loans?</button>
                                         </h2>
                                     </div>
                                     <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
                                         <div class="card-body">
-                                            <p>No, Glia does not require integration into
-                                                your core processor. Rather, Glia is a system
-                                                of engagement that interacts with your digital
-                                                properties, and the technology providers for those
-                                                sites (i.e. digital banking, online account opening
-                                                and lending, marketing sites, etc).</p>
+                                            <p>Credit unions can purchase a portion
+                                                of other credit unions’ business loans as an
+                                                excellent way to diversify risk, build income,
+                                                and assist other credit unions. Credit unions
+                                                purchasing loans need to exercise the same
+                                                level of diligence in originating and closing
+                                                the loan as if they were making the loan to
+                                                one of their members. Participation loans
+                                                should have the same credit criteria as other
+                                                loans and should be viewed as a “loan” with
+                                                credit risk and not an investment.</p>
 
                                         </div>
                                     </div>
                                 </div>
-
-                                <div class="card">
-                                    <div class="card-header" id="headingSix">
-                                        <h2 class="mb-0">
-                                            <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseSix"><i class="fa fa-plus"></i> What is CoBrowsing and how can it help provide better service to members?</button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
-                                        <div class="card-body">
-                                            <p>CoBrowsing, short for collaborative browsing, is
-                                                joint navigation through the same site at the same
-                                                time between the Member Service Representative
-                                                or call center agent and the member. When
-                                                coupled with Live Observation, or the agent’s
-                                                ability to see the member’s session in real-time,
-                                                CoBrowsing is an incredibly effective way to teach
-                                                the member how to use the site and guide them
-                                                through their session. In most cases, our customers
-                                                experience a 20% faster issue resolution timeframe
-                                                as well as drastic improvements in Member
-                                                Satisfaction scores.</p>
-
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="card">
-                                    <div class="card-header" id="headingSeven">
-                                        <h2 class="mb-0">
-                                            <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseSeven"><i class="fa fa-plus"></i> How does Glia work with my existing chatbot provider?</button>
-                                        </h2>
-                                    </div>
-                                    <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionExample">
-                                        <div class="card-body">
-                                            <p>Glia complements any AI engine, and serves
-                                                as the framework through which chatbot and
-                                                live agent interactions are managed. This way,
-                                                the credit union can deploy finely-tuned bots for
-                                                specific areas of the site to optimize the user’s
-                                                experience. This benefits the credit union by
-                                                centralizing all routing and queueing, bot-tohuman
-                                                transfers, and reporting into one system.
-                                                Additionally, the AI engine can be leveraged to
-                                                provide live agents with assisted responses based
-                                                on the member’s specific question, which reduces
-                                                the average handling timeframes and creates
-                                                greater efficiencies across the service operation.</p>
-
-                                        </div>
-                                    </div>
-                                </div>
-
 
                             </div>
                         </div>
-                
+
                     </div>
 
                 </div>
