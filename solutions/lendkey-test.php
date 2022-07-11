@@ -65,12 +65,13 @@
         .accordion .fa {
             margin-right: 0.5rem;
         }
+
         .detail a {
             font-weight: bold;
             color: #000;
         }
 
-        .myButton{
+        .myButton {
             width: 90%;
         }
     </style>
@@ -128,7 +129,8 @@
 
 
 
-                        <p><strong><a style="font-weight: bold;" href="../assets/docs/LendKey-HIL-Product Sheet 042122.pdf" target="_blank" rel="noopener noreferrer">Home Improvement Loan</a></strong><p>
+                        <p><strong><a style="font-weight: bold;" href="../assets/docs/LendKey-HIL-Product Sheet 042122.pdf" target="_blank" rel="noopener noreferrer">Home Improvement Loan</a></strong>
+                        <p>
 
                         <p>LendKey’s home improvement loan solution is for credit unions looking to add a supplemental channel to deploy capital, grow loans, and earn an attractive net ROA. This unique participation program is easy to set up and requires minimal credit union resources to support. LendKey drives the demand and manages the program, while the credit union reviews the loans and funds upon approval</p>
 
@@ -146,7 +148,7 @@
 
                     <pa><a href="mailto:consult@myleverage.com" class="myButton">Contact Us!</a></p>
 
-                    <p><a href="#" data-remodal-target="form" class="myButton" style="width: 90%;">Request Resources</a></p>
+                        <p><a href="#" data-remodal-target="form" class="myButton" style="width: 90%;">Request Resources</a></p>
 
                 </div>
             </div>
