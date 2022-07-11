@@ -146,7 +146,7 @@
                             <li>• Determine credit availability, deliver credit package, provide audit defense and support</li>
                             <li>• Look for other credit opportunities to maximize incentives</li>
                         </ul>
-<!-- 
+                        <!-- 
                         <p><a href="https://www.synergipartners.com/lscu/" class="myButton">Sign Up Today</a> &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:consult@myleverage.com" class="myButton">Contact Us</a></p> -->
 
                         <h2>Resources</h2>
@@ -170,11 +170,13 @@
 
 
                                 <div class="card">
+                                    <!--
                                     <div class="card-header" id="headingFour">
                                         <h2 class="mb-0">
                                             <button type="button" class="btn btn-link" data-toggle="collapse" data-target="#collapseFour"><i class="fa fa-plus"></i> Synergi Partners & LEVERAGE ERC Presentation</button>
                                         </h2>
                                     </div>
+-->
                                     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
                                         <div class="card-body">
                                             <p><a href="../assets/docs/SynergiPartners-LEVERAGE-ERC-Presentation.pdf" target="_blank" class="myButton">Download Now</a></p>
