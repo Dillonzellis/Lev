@@ -81,12 +81,12 @@
 
 
             <div class="item">
-                <div class="home home-slider-image-0">
+                <div class="home home-slider-image-par">
                     <div class="caption_info">
                         <div class="container">
                             <div class="inner inner-text-left">
-                                <h1>ODP Business Solutions</h1>
-                                <p>The premier program delivering the most aggressive pricing and prime vendor perks</p>
+                                <h1>PAR</h1>
+                                <p>Unparalleled nationwide total asset management from start to finish.</p>
 
                             </div>
                         </div>
@@ -95,12 +95,12 @@
             </div>
 
             <div class="item">
-                <div class="home home-slider-image-DDI">
+                <div class="home home-slider-image-vsb">
                     <div class="caption_info">
                         <div class="container">
                             <div class="inner inner-text-left">
-                                <h1>DDI</h1>
-                                <p>Streamline your title and lien release management</p>
+                                <h1>VSB</h1>
+                                <p>A Digital Vault for the collection, protection and exchange of sensitive information.</p>
                             </div>
                         </div>
                     </div>
@@ -108,12 +108,12 @@
             </div>
 
             <div class="item">
-                <div class="home home-slider-image-OSG">
+                <div class="home home-slider-image-glia">
                     <div class="caption_info">
                         <div class="container">
                             <div class="inner inner-text-left">
-                                <h1>OSG</h1>
-                                <p>Digital and print member statement solutions</p>
+                                <h1>Glia</h1>
+                                <p>Digital member service experience that is always on-screen and starts whenever the person is.</p>
                             </div>
                         </div>
                     </div>
@@ -121,20 +121,23 @@
             </div>
 
             <div class="item">
-                <div class="home home-slider-image-JDP">
+                <div class="home home-slider-image-mbfs">
                     <div class="caption_info">
                         <div class="container">
                             <div class="inner inner-text-left">
-                                <h1>J. D. Power</h1>
-                                <p>Real insights from real owners</p>
+                                <h1>MBFS</h1>
+                                <p>Member Business Financial Services, a CUSO focused on business loans, provides
+                                    credit analysis, loan document preparation, relationship management, and loan
+                                    servicing for credit unions.
+                                </p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="item">
-                <div class="home home-slider-image-1">
+            <!-- <div class="item">
+                <div class="home home-slider-image-image-4">
                     <div class="caption_info">
                         <div class="container">
                             <div class="inner inner-text-left">
@@ -145,9 +148,9 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
-            <div class="item">
+            <!-- <div class="item">
                 <div class="home home-slider-image-2">
                     <div class="caption_info">
                         <div class="container">
@@ -159,9 +162,9 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
-            <div class="item">
+            <!-- <div class="item">
                 <div class="home home-slider-image-3">
                     <div class="caption_info">
                         <div class="container">
@@ -173,9 +176,9 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
-            <div class="item">
+            <!-- <div class="item">
                 <div class="home home-slider-image-4">
                     <div class="caption_info">
                         <div class="container">
@@ -187,7 +190,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
         </div>
         <div id="section04" class="demo">

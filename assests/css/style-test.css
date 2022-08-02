@@ -227,6 +227,36 @@ section {
     /*position: absolute;*/
 }
 
+.slider_sec .home-slider-image-par{
+	background: url("./../images/banners/par.jpg");
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.3);
+    /*position: absolute;*/
+}
+
+.slider_sec .home-slider-image-vsb{
+	background: url("./../images/banners/virtual-strongbox.jpg");
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.3);
+    /*position: absolute;*/
+}
+
+.slider_sec .home-slider-image-glia{
+	background: url("./../images/banners/glia.jpg");
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: overlay;
+    background-color: rgba(0, 0, 0, 0.3);
+    /*position: absolute;*/
+}
+
 .slider_sec .home-slider-image-DDI{
 	background: url("./../images/banners/DDI-iStock-1150764862.jpg");
 	background-size: cover;
@@ -299,7 +329,7 @@ section {
     background-blend-mode: overlay;
     background-color: rgba(0, 0, 0, 0.3);
 }
-.slider_sec .home-slider-image-6{
+.slider_sec .home-slider-image-mbfs{
 	background: url("../images/banners/mbfs.jpg");
 	background-size: cover;
     background-repeat: no-repeat;
