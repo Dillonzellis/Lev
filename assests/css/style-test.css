@@ -228,7 +228,7 @@ section {
 }
 
 .slider_sec .home-slider-image-DDI{
-	background: url("./../images/banners/banner-624.png");
+	background: url("./../images/banners/DDI-iStock-1150764862.jpg");
 	background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -238,7 +238,7 @@ section {
 }
 
 .slider_sec .home-slider-image-OSG{
-	background: url("./../images/banners/banner-624.png");
+	background: url("./../images/banners/OSG-iStock-1181495455.jpg");
 	background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -248,7 +248,7 @@ section {
 }
 
 .slider_sec .home-slider-image-JDP{
-	background: url("./../images/banners/banner-624.png");
+	background: url("./../images/banners/JDP-iStock-1354206947.jpg");
 	background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -2208,6 +2208,7 @@ ul.package_list li span {
 	height: 90px;
 	background: url(../images/instagram_dot.png) top center no-repeat;
 	position: absolute;
+
 	bottom: -15px;
 	left: -15px;
 	right: -15px;
@@ -3221,6 +3222,7 @@ ul.c_info li {
 	padding: 0 0 0 50px;
 	display: block;
 	font-size: 15px;
+
 	color: #909092;
 	line-height: 38px;
 	position: relative;
@@ -3597,6 +3599,7 @@ ul.c_info li i {
 	font-size: 25px;
 	z-index: -1;
 	text-decoration: none;
+
 	background: #fff;
 	top: 0;
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
