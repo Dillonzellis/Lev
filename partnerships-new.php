@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		
-		<title>LEVERAGE - Partnerships</title>
-		<link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico" />
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>LEVERAGE - Partnerships</title>
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico" />
     <!-- Bootstrap -->
     <!-- <link href="assets/css/bootstrap.css" rel="stylesheet"> -->
     <!-- CSS only -->
@@ -21,275 +22,286 @@
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
     <!-- style sheet -->
     <link href="assets/css/style.css" rel="stylesheet">
-		<link href="assets/css/scroll-style-inner.css" rel="stylesheet">
+    <link href="assets/css/scroll-style-inner.css" rel="stylesheet">
     <!-- color stylesheet -->
     <link id="skin-switcher-css" href="assets/css/color-1.css" rel="stylesheet">
     <!-- responsive stylesheet -->
     <link href="assets/css/responsive.css" rel="stylesheet">
 
     <link href="assets/css/de-style.css" rel="stylesheet">
-		
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-105142522-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-105142522-1');
-</script>
-		<script type="text/javascript">
-piAId = '514811';
-piCId = '168940';
-piHostname = 'pi.pardot.com';
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-105142522-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
-(function() {
-	function async_load(){
-		var s = document.createElement('script'); s.type = 'text/javascript';
-		s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
-		var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
-	}
-	if(window.attachEvent) { window.attachEvent('onload', async_load); }
-	else { window.addEventListener('load', async_load, false); }
-})();
-</script>
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
 
-	</head>
-	<body>
-		<!-- Header -->
-		<header>
-			<div class="nav_sec">
-				<div class="container">
-					<?php include 'assets/inc/nav.php';?>
-				</div>
-			</div>
-		</header>
-		<!-- Section -->
-		
-		<!-- Slider Sec -->
-		<section class="inner_banner">
-			<div class="container">
-				<h1>Partnerships</h1>
-				<ul class="breadcrum">
-					<li><a href="index.php">Home</a></li>
-					<li>Partnerships</li>
-				</ul>
-				
-				<div id="section04" class="demo">
-				<a href="#serv_sec"><span></span>Scroll</a>
-			</div>
-				
-			</div>
-		</section>
-		<!-- About Sec -->
-		<section class="about_sec service_sec2">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-12 col-md-12">
-						<div class="detail">
-							<h2 class="global_title left">We create <em>OPPORTUNITIES</em>.</h2>
-							<p><em>LEVERAGE</em> partners with leading independent companies and industry affiliates to equip you with the innovative business solutions that will solidly position your financial institution for new growth. We’ve vetted our solutions providers and hand-selected them for their proven experience and expertise.</p>
+        gtag('config', 'UA-105142522-1');
+    </script>
+    <script type="text/javascript">
+        piAId = '514811';
+        piCId = '168940';
+        piHostname = 'pi.pardot.com';
 
-						</div>
-						
-						<p>&nbsp;</p>
-						
-						
-				<div class="row space-lg-3">
-					<div class="col-lg-4 col-sm-6">
-						<div class="inner">
-							<a class="event" href="https://commonbondtitle.com" target="_blank">
-    							<img src="assets/images/core-solutions/cbt.png" alt="Common Bond Title"/>
-    
-    							<div class="content">
-        							<h3>Common Bond Title</h3>
-    
-       		 						<div class="rollover">
-            						<p>Common Bond Title is the protector of property rights for real estate loans against property loss or damage due to defects in land title. They can assist with part or all of the real estate lending journey for the credit union.</p>
-        							</div>
-									
-    							</div>
-							</a>
-						</div>
-					</div>
-					<div class="col-lg-4 col-sm-6">
-						<div class="inner">
-							<a class="event" href="https://myleverage.com/solutions/culs.php">
-								<img src="assets/images/solutions/culs-card.png" alt="Credit Union Loan Source (CULS)" />
-								<div class="content">
-									<h3>Credit Union Loan Source</h3>
-									<div class="rollover rollover-lg rollover-xl">
-										<p>CU Loan Source (CULS) offers an indirect lending auto loan participation
-											program. CULS underwrites and finances auto loans utilizing a dealer
-											network covering eight states. With a focus on longer-term used vehicle
-											loans, CULS is able to minimize credit risk and maximize the credit unions’
-											ROI.</p>
-									</div>
-								</div>
-							</a>
-						</div>
-                	</div>
-					<div class="col-lg-4 col-sm-6">
-						<div class="inner">
-							<a class="event" href="http://cuacg.com/" target="_blank">
-    							<img src="assets/images/core-solutions/cuacg.png" alt="Compliance"/>
-    
-    							<div class="content">
-        							<h3>CU Audit & Compliance Group</h3>
-    
-       		 						<div class="rollover">
-            						<p>Credit Union Audit and Compliance Group (CUACG), the largest credit union audit and compliance firm within the Southeast, provides expertise to help credit unions navigate the changing regulatory and compliance environment.</p>
-        							</div>
-									
-    							</div>
-							</a>
-						</div>
-					</div>
-					<div class="col-lg-4 col-sm-6">
-						<div class="inner">
-							<a class="event" href="http://www.cuvm.org/" target="_blank">
-    							<img src="assets/images/core-solutions/cuvm.png" alt="Credit Union Vendor Management"/>
-    
-    							<div class="content">
-        							<h3>CUVM</h3>
-    
-       		 						<div class="rollover">
-            						<p>CUVM is a vendor management solution that provides credit unions with a cost effective Vendor Management module. CUVM, originally created as a Colorado CUSO in 2008, was purchased in 2012 by LEVERAGE, Credit Union Solutions Group, and Mountain West Credit Union Association to enhance the existing Self Service platform by adding a Full Service option.</p>
-        							</div>
-									
-    							</div>
-							</a>
-						</div>
-					</div>
-					
-					<div class="col-lg-4 col-sm-6">
-						<div class="inner">
-							<a class="event" href="http://www.growthbydesign.org" target="_blank">
-    							<img src="assets/images/core-solutions/gbd.png" alt="Growth by Design"/>
-    
-    							<div class="content">
-        							<h3>Growth by Design</h3>
-    
-       		 						<div class="rollover">
-            						<p>We are passionate and experienced designers, developers, artists, writers, videographers, editors, photographers, producers and strategists. Through our individual callings to imagine, discover and DO, we bring our talents together to create remarkable results for clients and unmatched experiences for audiences.</p>
-        							</div>
-									
-    							</div>
-							</a>
-						</div>
-					</div>
-					<div class="col-lg-4 col-sm-6">
-						<div class="inner">
-							<a class="event" href="http://myleveragebenefits.com/" target="_blank">
-    							<img src="assets/images/core-solutions/leverage-benefits.png" alt="LEVERAGE Benegits Group"/>
-    
-    							<div class="content">
-        							<h3><em>LEVERAGE</em> Benefits Group</h3>
-    
-       		 						<div class="rollover">
-            						<p>A partnership between LEVERAGE, affiliate of the League of Southeastern Credit Unions (LSCU) and Salus Group, an experienced benefits consulting firm among credit unions, offering a turnkey solution that provides comprehensive and competitive employee benefits and services at affordable prices.</p>
-        							</div>
-									
-    							</div>
-							</a>
-						</div>
-					</div>
+        (function() {
+            function async_load() {
+                var s = document.createElement('script');
+                s.type = 'text/javascript';
+                s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+                var c = document.getElementsByTagName('script')[0];
+                c.parentNode.insertBefore(s, c);
+            }
+            if (window.attachEvent) {
+                window.attachEvent('onload', async_load);
+            } else {
+                window.addEventListener('load', async_load, false);
+            }
+        })();
+    </script>
 
-					<div class="col-lg-4 col-sm-6">
-						<div class="inner">
-							<a class="event" href="https://leveragepaymentsolutions.com/" target="_blank">
-    							<img src="assets/images/core-solutions/leverage-cards.png" alt="LEVERAGE Payment Solutions"/>
-    
-    							<div class="content">
-        							<h3><em>LEVERAGE</em> Payment Solutions</h3>
-    
-       		 						<div class="rollover">
-            						<p>LEVERAGE Payment Solutions is one of the largest card processing organizations for credit unions within the Southeast.</p>
-        							</div>
-									
-    							</div>
-							</a>
-						</div>
-					</div>
-					
-					<div class="col-lg-4 col-sm-6">
-						<div class="inner">
-							
-							<a class="event" href="http://www.membersatm.com/" target="_blank">
-    							<img src="assets/images/core-solutions/maa.png" alt="Members ATM Alliance"/>
-    
-    							<div class="content">
-        							<h3>Members ATM Alliance</h3>
-    
-       		 						<div class="rollover">
-            						<p>Members ATM Alliance is a Credit Union Service Organization (CUSO) created to assist credit unions in ATM management. We are owned collectively by the credit unions within the Alliance and we operate in partnership with Fiserv.</p>
-        							</div>
-									
-    							</div>
-							</a>
+</head>
 
-						</div>
-					</div>
-					
-					<div class="col-lg-4 col-sm-6">
-						<div class="inner">
-							<a class="event" href="http://memberscorealliance.com/" target="_blank">
-    							<img src="assets/images/core-solutions/mca.png" alt="Members Core Alliance"/>
-    
-    							<div class="content">
-        							<h3>Members Core Alliance</h3>
-    
-       		 						<div class="rollover">
-            						<p>The Members Core Alliance provides credit unions with a solid, reliable and user friendly core processing platform through a cooperative effort among those you already know and trust...your peers!</p>
-        							</div>
-									
-    							</div>
-							</a>
-						</div>
-					</div>
-					
-					<div class="col-lg-4 col-sm-6" style="margin-top: 5px !important;">
-						<div class="inner">
-							<a class="event" href="http://sharedcooperativeservices.com/" target="_blank">
-    							<img src="assets/images/core-solutions/scs.png" alt="Shared Cooperative Services"/>
-    
-    							<div class="content">
-        							<h3>Shared Cooperative Services</h3>
-    
-       		 						<div class="rollover">
-            						<p>Shared Cooperative Services is the LSCU & Affiliates subsidiary for shared branching with 83 participating credit unions operating 350 outlets. Shared Cooperative Services is the state network for Alabama and Georgia and is part of the national network, CO-OP Shared Branch.</p>
-        							</div>
-									
-    							</div>
-							</a>
-						</div>
-					</div>
-					<div class="col-lg-4 col-sm-6" style="margin-top: 5px !important;">
-						<div class="inner">
-							<a class="event" href="https://www.trutreasury.com/">
-								<img src="assets/images/solutions/tru-card.png" alt="Tru Treasury" />
-								<div class="content">
-									<h3>Tru Treasury</h3>
-									<div class="rollover rollover-xl rollover-lg">
-										<p>A CUSO providing credit unions with treasury management expertise
-											such as treasury management consulting, program management, treasury
-											solutions and merchant services to increase revenue as well as attract and
-											retain business members.</p>
-									</div>
-								</div>
-							</a>
-						</div>
-                	</div>
-					
-					<div class="col-lg-4 col-sm-6" style="margin-top: 5px !important;"><div class="inner">&nbsp;</div></div>
-					
-				</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		
-		<section class="secondary-cards">
+<body>
+    <!-- Header -->
+    <header>
+        <div class="nav_sec">
+            <div class="container">
+                <?php include 'assets/inc/nav.php'; ?>
+            </div>
+        </div>
+    </header>
+    <!-- Section -->
+
+    <!-- Slider Sec -->
+    <section class="inner_banner">
+        <div class="container">
+            <h1>Partnerships</h1>
+            <ul class="breadcrum">
+                <li><a href="index.php">Home</a></li>
+                <li>Partnerships</li>
+            </ul>
+
+            <div id="section04" class="demo">
+                <a href="#serv_sec"><span></span>Scroll</a>
+            </div>
+
+        </div>
+    </section>
+    <!-- About Sec -->
+    <section class="about_sec service_sec2">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12">
+                    <div class="detail">
+                        <h2 class="global_title left">We create <em>OPPORTUNITIES</em>.</h2>
+                        <p><em>LEVERAGE</em> partners with leading independent companies and industry affiliates to equip you with the innovative business solutions that will solidly position your financial institution for new growth. We’ve vetted our solutions providers and hand-selected them for their proven experience and expertise.</p>
+
+                    </div>
+
+                    <p>&nbsp;</p>
+
+
+                    <div class="row space-lg-3">
+                        <div class="col-lg-4 col-sm-6">
+                            <div class="inner">
+                                <a class="event" href="https://commonbondtitle.com" target="_blank">
+                                    <img src="assets/images/core-solutions/cbt.png" alt="Common Bond Title" />
+
+                                    <div class="content">
+                                        <h3>Common Bond Title</h3>
+
+                                        <div class="rollover">
+                                            <p>Common Bond Title is the protector of property rights for real estate loans against property loss or damage due to defects in land title. They can assist with part or all of the real estate lending journey for the credit union.</p>
+                                        </div>
+
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-sm-6">
+                            <div class="inner">
+                                <a class="event" href="https://myleverage.com/solutions/culs.php">
+                                    <img src="assets/images/solutions/culs-card.png" alt="Credit Union Loan Source (CULS)" />
+                                    <div class="content">
+                                        <h3>Credit Union Loan Source</h3>
+                                        <div class="rollover rollover-lg rollover-xl">
+                                            <p>CU Loan Source (CULS) offers an indirect lending auto loan participation
+                                                program. CULS underwrites and finances auto loans utilizing a dealer
+                                                network covering eight states. With a focus on longer-term used vehicle
+                                                loans, CULS is able to minimize credit risk and maximize the credit unions’
+                                                ROI.</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-sm-6">
+                            <div class="inner">
+                                <a class="event" href="http://cuacg.com/" target="_blank">
+                                    <img src="assets/images/core-solutions/cuacg.png" alt="Compliance" />
+
+                                    <div class="content">
+                                        <h3>CU Audit & Compliance Group</h3>
+
+                                        <div class="rollover">
+                                            <p>Credit Union Audit and Compliance Group (CUACG), the largest credit union audit and compliance firm within the Southeast, provides expertise to help credit unions navigate the changing regulatory and compliance environment.</p>
+                                        </div>
+
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-sm-6">
+                            <div class="inner">
+                                <a class="event" href="http://www.cuvm.org/" target="_blank">
+                                    <img src="assets/images/core-solutions/cuvm.png" alt="Credit Union Vendor Management" />
+
+                                    <div class="content">
+                                        <h3>CUVM</h3>
+
+                                        <div class="rollover">
+                                            <p>CUVM is a vendor management solution that provides credit unions with a cost effective Vendor Management module. CUVM, originally created as a Colorado CUSO in 2008, was purchased in 2012 by LEVERAGE, Credit Union Solutions Group, and Mountain West Credit Union Association to enhance the existing Self Service platform by adding a Full Service option.</p>
+                                        </div>
+
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-sm-6">
+                            <div class="inner">
+                                <a class="event" href="http://www.growthbydesign.org" target="_blank">
+                                    <img src="assets/images/core-solutions/gbd.png" alt="Growth by Design" />
+
+                                    <div class="content">
+                                        <h3>Growth by Design</h3>
+
+                                        <div class="rollover">
+                                            <p>We are passionate and experienced designers, developers, artists, writers, videographers, editors, photographers, producers and strategists. Through our individual callings to imagine, discover and DO, we bring our talents together to create remarkable results for clients and unmatched experiences for audiences.</p>
+                                        </div>
+
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-sm-6">
+                            <div class="inner">
+                                <a class="event" href="http://myleveragebenefits.com/" target="_blank">
+                                    <img src="assets/images/core-solutions/leverage-benefits.png" alt="LEVERAGE Benegits Group" />
+
+                                    <div class="content">
+                                        <h3><em>LEVERAGE</em> Benefits Group</h3>
+
+                                        <div class="rollover">
+                                            <p>A partnership between LEVERAGE, affiliate of the League of Southeastern Credit Unions (LSCU) and Salus Group, an experienced benefits consulting firm among credit unions, offering a turnkey solution that provides comprehensive and competitive employee benefits and services at affordable prices.</p>
+                                        </div>
+
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-sm-6">
+                            <div class="inner">
+                                <a class="event" href="https://leveragepaymentsolutions.com/" target="_blank">
+                                    <img src="assets/images/core-solutions/leverage-cards.png" alt="LEVERAGE Payment Solutions" />
+
+                                    <div class="content">
+                                        <h3><em>LEVERAGE</em> Payment Solutions</h3>
+
+                                        <div class="rollover">
+                                            <p>LEVERAGE Payment Solutions is one of the largest card processing organizations for credit unions within the Southeast.</p>
+                                        </div>
+
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-sm-6">
+                            <div class="inner">
+
+                                <a class="event" href="http://www.membersatm.com/" target="_blank">
+                                    <img src="assets/images/core-solutions/maa.png" alt="Members ATM Alliance" />
+
+                                    <div class="content">
+                                        <h3>Members ATM Alliance</h3>
+
+                                        <div class="rollover">
+                                            <p>Members ATM Alliance is a Credit Union Service Organization (CUSO) created to assist credit unions in ATM management. We are owned collectively by the credit unions within the Alliance and we operate in partnership with Fiserv.</p>
+                                        </div>
+
+                                    </div>
+                                </a>
+
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-sm-6">
+                            <div class="inner">
+                                <a class="event" href="http://memberscorealliance.com/" target="_blank">
+                                    <img src="assets/images/core-solutions/mca.png" alt="Members Core Alliance" />
+
+                                    <div class="content">
+                                        <h3>Members Core Alliance</h3>
+
+                                        <div class="rollover">
+                                            <p>The Members Core Alliance provides credit unions with a solid, reliable and user friendly core processing platform through a cooperative effort among those you already know and trust...your peers!</p>
+                                        </div>
+
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-sm-6" style="margin-top: 5px !important;">
+                            <div class="inner">
+                                <a class="event" href="http://sharedcooperativeservices.com/" target="_blank">
+                                    <img src="assets/images/core-solutions/scs.png" alt="Shared Cooperative Services" />
+
+                                    <div class="content">
+                                        <h3>Shared Cooperative Services</h3>
+
+                                        <div class="rollover">
+                                            <p>Shared Cooperative Services is the LSCU & Affiliates subsidiary for shared branching with 83 participating credit unions operating 350 outlets. Shared Cooperative Services is the state network for Alabama and Georgia and is part of the national network, CO-OP Shared Branch.</p>
+                                        </div>
+
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-sm-6" style="margin-top: 5px !important;">
+                            <div class="inner">
+                                <a class="event" href="https://www.trutreasury.com/">
+                                    <img src="assets/images/solutions/tru-card.png" alt="Tru Treasury" />
+                                    <div class="content">
+                                        <h3>Tru Treasury</h3>
+                                        <div class="rollover rollover-xl rollover-lg">
+                                            <p>A CUSO providing credit unions with treasury management expertise
+                                                such as treasury management consulting, program management, treasury
+                                                solutions and merchant services to increase revenue as well as attract and
+                                                retain business members.</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-sm-6" style="margin-top: 5px !important;">
+                            <div class="inner">&nbsp;</div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="secondary-cards">
         <div class="container">
             <div class="row">
                 <div class="col-lg-3 col-sm-6">
@@ -448,8 +460,8 @@ piHostname = 'pi.pardot.com';
                         </a>
                     </div>
                 </div>
-				
-				<div class="col-lg-3 col-sm-6">
+
+                <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="https://myleverage.com/solutions/element.php">
                             <img src="assets/images/solutions/element-card.png" alt="Element" />
@@ -465,8 +477,8 @@ piHostname = 'pi.pardot.com';
                         </a>
                     </div>
                 </div>
-				
-				<div class="col-lg-3 col-sm-6">
+
+                <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="https://myleverage.com/solutions/glia.php">
                             <img src="assets/images/solutions/glia-card.png" alt="Glia" />
@@ -481,8 +493,8 @@ piHostname = 'pi.pardot.com';
                         </a>
                     </div>
                 </div>
-				
-				<div class="col-lg-3 col-sm-6">
+
+                <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="https://myleverage.com/solutions/overdraft-protection.php">
                             <img src="assets/images/solutions/jmfa-card.png" alt="JMFA Contract Optimizer" />
@@ -495,8 +507,8 @@ piHostname = 'pi.pardot.com';
                         </a>
                     </div>
                 </div>
-				
-				<div class="col-lg-3 col-sm-6">
+
+                <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="https://myleverage.com/solutions/lendkey.php">
                             <img src="assets/images/solutions/lendkey-card.png" alt="LendKey" />
@@ -512,8 +524,8 @@ piHostname = 'pi.pardot.com';
                         </a>
                     </div>
                 </div>
-				
-				<div class="col-lg-3 col-sm-6">
+
+                <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="https://myleverage.com/solutions/mbfs.php">
                             <img src="assets/images/solutions/mbfs-card.png" alt="Member Business Financial Services (MBFS)" />
@@ -529,8 +541,8 @@ piHostname = 'pi.pardot.com';
                         </a>
                     </div>
                 </div>
-				
-				<div class="col-lg-3 col-sm-6">
+
+                <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="https://myleverage.com/solutions/odp-business-solutions.php">
                             <img src="assets/images/solutions/odp-card.png" alt="ODP Business Solutions" />
@@ -543,25 +555,25 @@ piHostname = 'pi.pardot.com';
                         </a>
                     </div>
                 </div>
-				
-				<div class="col-lg-3 col-sm-6">
-                <div class="inner">
-                    <a class="event" href="https://myleverage.com/solutions/onedigital.php">
-                        <img src="assets/images/solutions/synergi-card.png" alt="OneDigital & Synergi Partners" />
-                        <div class="content">
-                            <h3>OneDigital & Synergi</h3>
-                            <div class="rollover rollover-lg">
-                                <p>Credit Unions may be eligible for an Employee Retention Credit (ERC) of up
-                                    to $26,000 due to full or partial suspension of business operations from a
-                                    government order or a significant decline in gross receipts in 2020 and/or 2021.
-                                </p>
+
+                <div class="col-lg-3 col-sm-6">
+                    <div class="inner">
+                        <a class="event" href="https://myleverage.com/solutions/onedigital.php">
+                            <img src="assets/images/solutions/synergi-card.png" alt="OneDigital & Synergi Partners" />
+                            <div class="content">
+                                <h3>OneDigital & Synergi</h3>
+                                <div class="rollover rollover-lg">
+                                    <p>Credit Unions may be eligible for an Employee Retention Credit (ERC) of up
+                                        to $26,000 due to full or partial suspension of business operations from a
+                                        government order or a significant decline in gross receipts in 2020 and/or 2021.
+                                    </p>
+                                </div>
                             </div>
-                        </div>
-                    </a>
+                        </a>
+                    </div>
                 </div>
-            </div>
-				
-				<div class="col-lg-3 col-sm-6">
+
+                <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="https://myleverage.com/solutions/osg.php">
                             <img src="assets/images/solutions/osg-card.png" alt="OSG" />
@@ -577,25 +589,25 @@ piHostname = 'pi.pardot.com';
                         </a>
                     </div>
                 </div>
-				
-				<div class="col-lg-3 col-sm-6">
-                <div class="inner">
-                    <a class="event" href="https://myleverage.com/solutions/par.php">
-                        <img src="assets/images/solutions/par-card.png" alt="Partners in Asset Recovery (PAR)" />
-                        <div class="content">
-                            <h3>Partners in Asset Recovery</h3>
-                            <div class="rollover pt-5">
-                                <p>PAR North America is the leading nationwide provider of vehicle transition
-                                    services including recovery management, skip tracing, compliance,
-                                    remarketing and title services.
-                                </p>
+
+                <div class="col-lg-3 col-sm-6">
+                    <div class="inner">
+                        <a class="event" href="https://myleverage.com/solutions/par.php">
+                            <img src="assets/images/solutions/par-card.png" alt="Partners in Asset Recovery (PAR)" />
+                            <div class="content">
+                                <h3>Partners in Asset Recovery</h3>
+                                <div class="rollover pt-5">
+                                    <p>PAR North America is the leading nationwide provider of vehicle transition
+                                        services including recovery management, skip tracing, compliance,
+                                        remarketing and title services.
+                                    </p>
+                                </div>
                             </div>
-                        </div>
-                    </a>
+                        </a>
+                    </div>
                 </div>
-            </div>
-				
-				<div class="col-lg-3 col-sm-6">
+
+                <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="https://myleverage.com/solutions/passtime.php">
                             <img src="assets/images/solutions/passtime-card.png" alt="PassTime GPS" />
@@ -609,8 +621,8 @@ piHostname = 'pi.pardot.com';
                         </a>
                     </div>
                 </div>
-				
-				<div class="col-lg-3 col-sm-6">
+
+                <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="https://myleverage.com/solutions/pivotgroup.php">
                             <img src="assets/images/solutions/pivot-card.png" alt="PIVOT Group" />
@@ -625,8 +637,8 @@ piHostname = 'pi.pardot.com';
                         </a>
                     </div>
                 </div>
-				
-				<div class="col-lg-3 col-sm-6">
+
+                <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="https://myleverage.com/solutions/recordlyf.php">
                             <img src="assets/images/solutions/record-card.png" alt="RecordLyf" />
@@ -639,8 +651,8 @@ piHostname = 'pi.pardot.com';
                         </a>
                     </div>
                 </div>
-				
-				<div class="col-lg-3 col-sm-6">
+
+                <div class="col-lg-3 col-sm-6">
                     <div class="inner">
                         <a class="event" href="https://myleverage.com/solutions/virtual-strongbox.php">
                             <img src="assets/images/solutions/virtual-strong-box-card.png" alt="Virtual Strong Box" />
@@ -648,7 +660,7 @@ piHostname = 'pi.pardot.com';
                                 <h3>Virtual StrongBox</h3>
                                 <div class="rollover">
                                     <p>A secure, customizable platform, with 8 patents and Total Information Privacy and Protection (TIPP), designed with Financial Service security requirements in mind.
-									</p>
+                                    </p>
                                 </div>
                             </div>
                         </a>
@@ -657,21 +669,22 @@ piHostname = 'pi.pardot.com';
 
             </div>
         </div>
-    </section>		
-		
-		<!-- Footer -->
-		<footer>
-			<section class="footer_detail footer_detail_3">
-				<?php include 'assets/inc/footer.php';?>
-			</section>
-		</footer>
-		<!-- Js -->
-		<script src="assets/js/jquery-3.1.0.min.js"></script>
-		<script src="assets/js/popper.min.js"></script>
-		<script src="assets/js/bootstrap.min.js"></script>
-		<script src="assets/js/owl.carousel.js"></script>
-		<!-- theme Whatsapp chat -->
-		<script src="assets/js/aos.js"></script>
-		<script src="assets/js/script.js"></script>
-	</body>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <section class="footer_detail footer_detail_3">
+            <?php include 'assets/inc/footer.php'; ?>
+        </section>
+    </footer>
+    <!-- Js -->
+    <script src="assets/js/jquery-3.1.0.min.js"></script>
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/owl.carousel.js"></script>
+    <!-- theme Whatsapp chat -->
+    <script src="assets/js/aos.js"></script>
+    <script src="assets/js/script.js"></script>
+</body>
+
 </html>
