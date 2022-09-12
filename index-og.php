@@ -19,7 +19,7 @@
     <!-- owl carousel -->
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
     <!-- stylesheet -->
-    <link href="assets/css/style-test-new.css" rel="stylesheet">
+    <link href="assets/css/style-test.css" rel="stylesheet">
     <link href="assets/css/scroll-style.css" rel="stylesheet">
     <!-- layout stylesheet -->
     <link href="assets/css/layout_2.css" rel="stylesheet">
@@ -81,13 +81,13 @@
 
 
             <div class="item">
-                <div class="home home-slider-image-odp">
+                <div class="home home-slider-image-par">
                     <div class="caption_info">
                         <div class="container">
-                            <div class="inner inner-text-left mt-slider-content">
-                                <img class="banner-logo" src="./assets/images/logos/ODP_Logo_WHITE_RGB_Stacked.png" alt="ODP Logo" srcset="">
-                                <p>The premier program delivering the most aggressive pricing and prime vendor perks</p>
-                                <a href="https://myleverage.com/solutions/odp-business-solutions.php" class="store_btn green radial-out" target="_blank"><strong>Learn More</strong></a>
+                            <div class="inner inner-text-left">
+                                <h1>PAR</h1>
+                                <p>Unparalleled nationwide total asset management from start to finish.</p>
+
                             </div>
                         </div>
                     </div>
@@ -95,13 +95,12 @@
             </div>
 
             <div class="item">
-                <div class="home home-slider-image-cufs">
+                <div class="home home-slider-image-vsb">
                     <div class="caption_info">
                         <div class="container">
-                            <div class="inner inner-text-left mt-slider-content">
-                                <img class="banner-logo" src="./assets/images/logos/cufs.png" alt="CUFS Logo" srcset="">
-                                <p>Whether you’re looking for a full-service mortgage financial partner, or a-la-carte services, CUFS can customize the partnership your credit union needs.</p>
-                                <a href="https://myleverage.com/solutions/cufs.php" class="store_btn green radial-out" target="_blank"><strong>Learn More</strong></a>
+                            <div class="inner inner-text-left">
+                                <h1>VSB</h1>
+                                <p>A Digital Vault for the collection, protection and exchange of sensitive information.</p>
                             </div>
                         </div>
                     </div>
@@ -109,13 +108,12 @@
             </div>
 
             <div class="item">
-                <div class="home home-slider-image-deluxe">
+                <div class="home home-slider-image-glia">
                     <div class="caption_info">
                         <div class="container">
-                            <div class="inner inner-text-left mt-slider-content">
-                                <img class="banner-logo" src="./assets/images/logos/deluxe_logo_2020.svg" alt="Deluxe Logo" srcset="">
-                                <p>Strategically transforming to a solutions-provider that drives growth for credit unions through payments performance management, digital channels, and small business marketing services.</p>
-                                <a href="https://www.deluxe.com/financial-institutions/" class="store_btn green radial-out" target="_blank"><strong>Learn More</strong></a>
+                            <div class="inner inner-text-left">
+                                <h1>Glia</h1>
+                                <p>Digital member service experience that is always on-screen and starts whenever the person is.</p>
                             </div>
                         </div>
                     </div>
@@ -123,32 +121,20 @@
             </div>
 
             <div class="item">
-                <div class="home home-slider-image-pivot">
-                    <div class="caption_info">
-                        <div class="container">
-                            <div class="inner inner-text-left mt-slider-content">
-                                <img class="banner-logo" src="./assets/images/logos/logoBanner-new.gif" alt="Pivot Group Logo" srcset="">
-                                <p>20+ year history of providing cybersecurity solutions to protect data and systems, as well as compliance with information security and data privacy regulations.</p>
-                                <a href="https://myleverage.com/solutions/pivotgroup.php" class="store_btn green radial-out" target="_blank"><strong>Learn More</strong></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- <div class="item">
                 <div class="home home-slider-image-mbfs">
                     <div class="caption_info">
                         <div class="container">
                             <div class="inner inner-text-left">
-                                <h1>Pivot Group</h1>
-                                <p>20+ year history of providing cybersecurity solutions to protect data and systems, as well as compliance with information security and data privacy regulations.
+                                <h1>MBFS</h1>
+                                <p>Member Business Financial Services, a CUSO focused on business loans, provides
+                                    credit analysis, loan document preparation, relationship management, and loan
+                                    servicing for credit unions.
                                 </p>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div> -->
+            </div>
 
             <!-- <div class="item">
                 <div class="home home-slider-image-image-4">
@@ -226,8 +212,8 @@
                         <h2 class="global_title left">About <em>LEVERAGE</em></h2>
                         <h3>Creating Growth Opportunities and Solutions for Financial Institutions</h3>
                         <p><em>LEVERAGE</em> is an industry leader in delivering solutions that meet the evolving needs of financial institutions. From operational tools that enable heightened productivity and promotional strategies that foster growth to cooperative resources that ease product breadth, <em>LEVERAGE</em> provides sophisticated solutions to solve your most complex business problems.</p>
-
-                        <h2 class="global_title left"><em>LEVERAGE</em> Solutions Catalog</h2>
+						
+						<h2 class="global_title left"><em>LEVERAGE</em> Solutions Catalog</h2>
 
                         <p>Our Solutions Catalog provides the viewer a means to search for product information two ways, which are: by Product Category, or by Company. To get started simply click on the orange "Main Menu" tab. Then click on the Product Category or Company you wish to learn more about and go from there. It's that easy!</p>
 
