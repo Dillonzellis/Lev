@@ -192,6 +192,7 @@
                 </div>
             </div> -->
 
+
         </div>
         <div id="section04" class="demo">
 
@@ -211,8 +212,9 @@
                         <h2 class="global_title left">About <em>LEVERAGE</em></h2>
                         <h3>Creating Growth Opportunities and Solutions for Financial Institutions</h3>
                         <p><em>LEVERAGE</em> is an industry leader in delivering solutions that meet the evolving needs of financial institutions. From operational tools that enable heightened productivity and promotional strategies that foster growth to cooperative resources that ease product breadth, <em>LEVERAGE</em> provides sophisticated solutions to solve your most complex business problems.</p>
+						
+						<h2 class="global_title left"><em>LEVERAGE</em> Solutions Catalog</h2>
 
-                        <h2 class="global_title left"><em>LEVERAGE</em> Solutions Catalog</h2>
                         <p>Our Solutions Catalog provides the viewer a means to search for product information two ways, which are: by Product Category, or by Company. To get started simply click on the orange "Main Menu" tab. Then click on the Product Category or Company you wish to learn more about and go from there. It's that easy!</p>
 
                         <iframe src="https://myleverage.com/flipbook/mobile/" width="100%" height="600px" scrolling="no"></iframe>

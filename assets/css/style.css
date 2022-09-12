@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------------------------
 Template Name: Halari
 Template URI: https://themeforest.net/item/halari-multi-purpose-parallax-business-landing-page-psd-template/24429840
-Description: Halari â€“ Multi purpose Business landing page theme for Service, corporate, agency, Consulting, startup.
+Description: Halari – Multi purpose Business landing page theme for Service, corporate, agency, Consulting, startup.
 Author: ashishmaraviya
 Author URI: https://themeforest.net/user/ashishmaraviya
 ----------------------------------------------------------------------------------- */
@@ -225,6 +225,7 @@ section {
 }
 
 .slider_sec .home-slider-image-vsb {
+
   background: url("./../images/banners/virtual-strongbox.jpg");
   background-size: cover;
   background-repeat: no-repeat;
